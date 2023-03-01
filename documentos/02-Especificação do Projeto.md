@@ -27,9 +27,9 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Futuro  Usuário |  Fazer login |  Ter acesso | 
-|Estudante |  Adquirir acesso ao menu de diversos Temas e Gêneros textuais |  Agilizar minha procura |
+|--------------------|----------------------- --------|---------------------------------------|
+ |Futuro             -Usuário | Fazer login | Ter acesso |
+|Estudante | Adquirir acesso ao menu de diversos Temas e Gêneros textuais | Agilizar minha procura |
 |Professor |  Ter acesso específico para docentes com vários temas |  Alcançar de maneira ágil todo o material direcionado para o ensino didático |
 |Pesquisador científico |  Ter um histórico de minhas aquisições e reservas |  Ter um registro de minhas pesquisas , par a consultas se necessário |
 |Profissional no ramo de Engenharia Civil |  Opção de visualizar o material mais facilmente com minha área de atuação  |  Localizar recursos específicos |
