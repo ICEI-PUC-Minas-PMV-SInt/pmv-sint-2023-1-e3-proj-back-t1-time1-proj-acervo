@@ -28,17 +28,22 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Futuro  Usuário |  Fazer login |  Ter acesso | 
+|Estudante |  Adquirir acesso ao menu de diversos Temas e Gêneros textuais |  Agilizar minha procura |
+|Professor |  Ter acesso específico para docentes com vários temas |  Alcançar de maneira ágil todo o material direcionado para o ensino didático |
+|Pesquisador científico |  Ter um histórico de minhas aquisições e reservas |  Ter um registro de minhas pesquisas , par a consultas se necessário |
+|Profissional no ramo de Engenharia Civil |  Opção de visualizar o material mais facilmente com minha área de atuação  |  Localizar recursos específicos |
+|Amante da leitura  |  Acesso por Título, Autor, Assunto, Tema |  Tornar minha busca Personalizada à minha escolha |
+|Portador  de  deficiêni  |  Usufruir de ferramentas que me conceda acessibilidade , como leitores de telas, tradutores de língua para libras... |  Ter inclusão social |
+|Usuário do sistema |  Quero poder baixar E-Books  |  Ter acesso of-Line, E-Reards... |
+|Usuário do sistema  |  Fazer Impressão |  Ter acesso físico a alguma informação |
+|Usuário do sistem |  Ver de forma sucinta as regras de serviço, como: créditos, valores, multas, renovação, reservas |  tomar ciência sem perder tempo |
+|Usuário do sistema |  Canal de comunicação como: chat, e-mail, WhatsApp |  tirar dúvidas |
+|Administrador |  Alterações no cadastro do usuário |  Controle e administração |
+|Administrador |  Relatório de locação com filt de dados  como nome do usuár, valor, quantidade |  controle financeiro |
+|Administrador |  Canal de comunicação com o usuário do sistema |  Alertas  de tempo de aluguel expirado |  
+|Administrador |  De acordo com o perfil do usuário sugerir opções |  Ter um contato mais próximo com o usuário, dando a sensação de estar acompanhado |
+|Administrador |  Cadastro com senha na competência Gerencial |  controle ordenado por nível de comando |
 
 ## Requisitos
 
