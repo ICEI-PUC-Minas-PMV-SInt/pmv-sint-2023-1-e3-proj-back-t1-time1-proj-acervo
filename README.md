@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+# BuscaBook - Gestão de livros simplificada
 
-`CURSO`
+`Tecnologia em Sistemas para Internet`
 
-`DISCIPLINA`
+`Projeto de Desenvolvimento Web Back-End`
 
-`SEMESTRE`
+`3º Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A BuscaBook é uma empresa que oferece um software especializado em ajudar na busca de livros em bibliotecas. Com essa ferramenta, os usuários da biblioteca podem facilmente encontrar o livro desejado, seja por título, autor ou tema. Além disso, o software também auxilia o dono da biblioteca na organização do acervo, permitindo o cadastro de informações detalhadas sobre cada livro e facilitando a manutenção da coleção 📚
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Isadora Cristina Carvalho Bittencourt
+* Gabriel Rodrigues Ferro
+* Leticia Rose
+* Marcia Carvalho
+* Maria Eduarda
+* Luana Baratta
+* Cristhyam Augusto Soares Paraiso
 
 ## Orientador
 
-* Nome completo do professor 1
+* Professor Will Machado
 
 ## Instruções de utilização
 
