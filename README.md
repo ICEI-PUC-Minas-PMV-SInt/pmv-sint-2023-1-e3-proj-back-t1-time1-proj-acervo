@@ -1,4 +1,4 @@
-# BuscaBook - Gestão de livros simplificada
+# BuscaBook - Gestão de Livros Simplificada
 
 `Tecnologia em Sistemas para Internet`
 
@@ -10,13 +10,14 @@ A BuscaBook é uma empresa que oferece um software especializado em ajudar na bu
 
 ## Integrantes
 
-* Isadora Cristina Carvalho Bittencourt
-* Gabriel Rodrigues Ferro
-* Leticia Rose
-* Marcia Carvalho
-* Maria Eduarda
-* Luana Baratta
 * Cristhyam Augusto Soares Paraiso
+* Gabriel Rodrigues Ferro
+* Isadora Cristina Carvalho Bittencourt
+* Leticia Rose de Santana Lopes
+* Luana Berato dos Santos
+* Marcia Aparecida Albergaria de Carvalho
+* Maria Eduarda Ribeiro de Almeida
+
 
 ## Orientador
 
