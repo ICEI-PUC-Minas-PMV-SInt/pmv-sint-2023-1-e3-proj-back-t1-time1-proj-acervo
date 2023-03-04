@@ -6,21 +6,15 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
-## Personas
+## Persona
+## 1 - João Alberto
+26 anos, classe média, brasileiro, residente em Contagem – MG. Estudante de Engenharia Mecânica, faz estágio em uma Siderúrgica, e tem a pretensão de ser contratado como Engenheiro Junior. Gosta de Ler e é apreciador da natureza. Nos finais de semana, costuma encontrar com os amigos para um happy hour. Por ser de classe média, não frequenta lugares caros, e tem hábitos mais caseiros como: assistir uma boa série em casa com os amigos. Sociável, João gosta muito de conversar com pessoas inteligentes e cultas, e em seu perfil nas redes sociais gosta de seguir páginas de documentários de diversos temas, tais como: história natural, história social, biográficos, observativo entre outros, igualmente é apaixonado por cinema.
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+## 2 - Maria Júlia
+54 anos, classe média, brasileira, residente em São Paulo – SP. É professora de uma escola pública e ama lecionar. Ela valoriza o conhecimento, e no seu tempo livre, curte com os filhos e marido, um proveitoso passeio em algum museu, sem distinção, pois Maria Júlia é eclética, gosta tanto dos museus históricos, de ciência, como os de história natural entre outros. Gosta de pets e possui um cachorro. Ela preza pela otimização do tempo, já que também faz mestrado. É amante da leitura e adepta a novas tecnologias, que possam agilizar suas tarefas diárias, tais como fazer compras on-line, busca de lugares para lazer, comprar bilhetes de cinema, etc. Está sempre em busca de atualidades na área da educação, p  Está sempre em busca de atualidades na área da educação, para exercer seu papel de professora com alto nível de competência.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+## 3 - Diego Duarte
+34 anos, natural do Rio de Janeiro, é portador de deficiência auditiva e acabou de se formar em administração na Universidade do Rio de Janeiro, no modelo EAD. É solteiro mora com seus pais e trabalha em um escritório de contabilidade onde recebe o salário de $ 2.300,00.  Seu maior medo é de ficar para trás no seu conhecimento profissional e perder o emprego. Diego gosta de ficar em casa e é amante da leitura, em seus momentos livres procurar ler bons livros, tem preferência por gênero épico. Diego também aprecia a natureza, sua maior preocupação é com o meio ambiente, por este motivo busca conhecimento a respeito para pôr em prática a preservação. 
 
 ## Histórias de Usuários
 
