@@ -22,21 +22,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |---------------------|-------------------|-------------------------|
-|Futuro usuário  | Fazer Login | Ter acesso |
 |Estudante |  Adquirir acesso ao menu de diversos Temas e Gêneros textuais |  Agilizar minha procura |
 |Professor |  Ter acesso específico para docentes com vários temas |  Alcançar de maneira ágil todo o material direcionado para o ensino didático |
-|Pesquisador científico | Ter um histórico de minhas aquisições, e  reservas |  Ter um registro de minhas pesquisas |
 |Profissional no ramo de Engenharia Civil | Opção de visualizar o material mais facilmente com minha área de atuação |
 |Amante da leitura | Acesso por Título, Autor, Assunto, Tema | Tornar minha busca Personalizada à minha escolha |
 |Portador de deficiência | Usufruir de ferramentas que me conceda acessibilidade , como leitores de telas, tradutores de língua para libras... | Ter inclusão social |
 |Usuário do sistema | Quero poder baixar E-Books | Ter acesso of-Line, E-Reards... |
 |Usuário do sistema | Fazer Impressão | Ter acesso físico a alguma informação |
 |Usuário do sistema | Ver de forma sucinta as regras de serviço, como: créditos, valores, multas, renovação, reservas | tomar ciência sem perder tempo|
-|Usuário do sistema | Canal de comunicação como: chat, e-mail, WhatsApp | tirar dúvidas |
-|Administrador | Alterações no cadastro de usuário | Controle e administrativo |
-|Administrador | Relatório de  locação com filtro de dados | Controle financeiro|
-|Administrador | Canal de comunicação com o usuário do sistema | Alertas de  expiração de locação |
-|Administrador | De acordo com o perfil do usuário sugerir opções | Ter um contato mais próximo com o cliente |
 |Administrador | Cadastro com senha  na autoridade de gerenciament | Controle de aceesso ordenado por nivel de comando |
 
 
