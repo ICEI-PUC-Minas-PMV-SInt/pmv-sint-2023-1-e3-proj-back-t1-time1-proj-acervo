@@ -76,7 +76,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |01|CICLO DE VIDA | Devido ao baixo orçamento, utilizaremos um ciclo incremental e iterativo, para definir requisitos essenciais e requisitos.
 |02| PRAZO & TIMING | O projeto deverá ser entregue até o fim do semestre 2022.2.
 |03| POLÍTICA & ASPECTOS LEGAIS | O projeto deve estar em conformidade com os parâmetros instituídos na LGPD (Lei Geral de Proteção de Dados).| 
-|04| ACESSO NAVEGADOR  O acesso ao sistema deverá ser feito atráveis da web, a partir dos principais navegadores existentes | 
+|04| ACESSO NAVEGADOR | O acesso ao sistema deverá ser feito atráveis da web, a partir dos principais navegadores existentes | 
 |05| LINGUAGEM E TECNOLOGIA |O sistema deve ser escrito e entregue na linguagem de programação C# | 
 |06|HOSPEDAGEM |Os arquivos devem estar hospedados em um servidor dedicado (VPS). | 
 |07|USABILIDADE |O sistema deve ter uma interface amigável e fácil de navegação. | 
