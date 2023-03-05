@@ -7,7 +7,7 @@ O Brasil enfrenta, há alguns anos, um grande problema em relação ao número d
 
 ## Objetivos
 
-O objetivo geral é desenvolver um software de acervo digital para uma biblioteca, o sistema deve auxiliar estudantes em suas pesquisas e trabalhos acadêmicos. Entende-se também que facilitando a busca por livros através de um software moderno, pode-se atrair mais pessoas ao espaço.
+O objetivo geral é desenvolver um software de acervo digital para uma biblioteca, o sistema deve auxiliar estudantes e demais leitores em suas pesquisas e trabalhos acadêmicos. Entende-se também que facilitando a busca por livros através de um software moderno, pode-se atrair mais pessoas ao espaço.
 
  - A finalidade do sistema: auxiliar estudantes e leitores no geral;
  - A delimitação: facilitando a busca por obras dentro da instituição.
@@ -21,13 +21,8 @@ Contribuir com a organização e eficiência das bibliotecas. Com um software de
 
  - Pessoas que precisam de alternativa mais eficiente e ágil ao acesso de informações.
  - Pessoas que buscam conhecimentos, como estudantes e professores que precisam pesquisar sobre assuntos diversos, sem a necessidade de se deslocarem até uma biblioteca física.
- - Pessoas que buscam dados científicos, tais como pesquisadores, cientistas...afim de atender às necessidades de informação científica de maneira ágil e acesso ao acervo da biblioteca onde e quando quiser!> - Pessoas portadoras de deficiência física, com dificuldade de locomoção.
+ - Pessoas que buscam dados científicos, tais como pesquisadores, cientistas...afim de atender às necessidades de informação científica de maneira ágil e acesso ao acervo da biblioteca onde e quando quiser!
  - Pessoas amantes da leitura que buscam de maneira fácil o acesso à cultura e lazer.
- - Gênero: Todos
- - Faixa Etária: Entre 20 e 60 anos
- - Escolaridade: a partir do Ensino Fundamental
- - Classe Social: Sem distinção
- - Localização: Ilimitada
  - Hábitos: Adeptos à leitura
  - Pessoas privadas de alguns sentidos como: audição, fala, visão. Onde existem tecnologias desenvolvidas para o auxiliar.
  - Pessoas portadoras de deficiência física, com dificuldade de locomoção.
