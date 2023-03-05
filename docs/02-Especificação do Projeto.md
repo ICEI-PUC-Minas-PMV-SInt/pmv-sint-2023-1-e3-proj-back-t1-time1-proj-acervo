@@ -1,11 +1,5 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
 ## Persona
 ## 1 - João Alberto
 26 anos, classe média, brasileiro, residente em Contagem – MG. Estudante de Engenharia Mecânica, faz estágio em uma Siderúrgica, e tem a pretensão de ser contratado como Engenheiro Junior. Gosta de Ler e é apreciador da natureza. Nos finais de semana, costuma encontrar com os amigos para um happy hour. Por ser de classe média, não frequenta lugares caros, e tem hábitos mais caseiros como: assistir uma boa série em casa com os amigos. Sociável, João gosta muito de conversar com pessoas inteligentes e cultas, e em seu perfil nas redes sociais gosta de seguir páginas de documentários de diversos temas, tais como: história natural, história social, biográficos, observativo entre outros, igualmente é apaixonado por cinema.
@@ -63,18 +57,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|ID     | Título  | Restrição |
+|-------|-------------------------|----|
+|01|CICLO DE VIDA | Devido ao baixo orçamento, utilizaremos um ciclo incremental e iterativo, para definir requisitos essenciais e requisitos.
+|02| PRAZO & TIMING | O projeto deverá ser entregue até o fim do semestre 2022.2.
+|03| POLÍTICA & ASPECTOS LEGAIS | O projeto deve estar em conformidade com os parâmetros instituídos na LGPD (Lei Geral de Proteção de Dados).| 
+|04| ACESSO NAVEGADOR (cadastro/estações) | O acesso deve ser feito através do navegador web Chrome e/ou Firefox | 
+|05| LINGUAGEM E TECNOLOGIA |O sistema deve ser escrito e entregue na linguagem de programação C# | 
+|06|HOSPEDAGEM |Os arquivos devem estar hospedados em um servidor dedicado (VPS). | 
+|07|USABILIDADE |O sistema deve ter uma interface amigável e fácil de navegação. | 
+|08|SERVIDOR |O sistema operacional do servidor será CentOS 7.0 ou superior. | 
+|09|SEGURANÇA |O projeto deve utilizar o padrão de Certificados SSL/TLS | 
 
 ## Diagrama de Casos de Uso
 ![diagrama](https://user-images.githubusercontent.com/101745127/222928832-7b8791a3-edd1-4af9-ae5a-645b92d1aea6.jpeg)
