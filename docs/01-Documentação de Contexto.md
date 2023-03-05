@@ -3,16 +3,7 @@
 Criação de um acervo de livros digital para uma biblioteca pública. Trata-se de uma biblioteca com um grande volume de obras, que necessita de um sistema para consulta de livros disponíveis para pesquisa e empréstimo. O sistema tem por objetivo facilitar o acesso aos livros e visa a melhor experiência do usuário com o espaço.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O Brasil enfrenta, há alguns anos, um grande problema em relação ao número de pessoas que frequentam bibliotecas ou se interessam pela leitura. De acordo com o IBOPE (2014) 44% dos brasileiros não têm o hábito de ler, e os que possuem, optam por livrarias privadas ou downloads de livros online. Seria este problema causado pela falta de incentivo a leitura e investimentos em bibliotecas e acervos públicos? O fato é que a maioria da população não enxerga as bibliotecas com bons olhos, sempre tendo a ideia de um lugar muito tradicional e desinteressante, vendo maior vantagem em locais que usam a tecnologia a favor da facilidade de acesso e inovação. Sendo assim, quais os efeitos do uso da tecnologia para facilitar o acesso e o incentivo a leitura sobre a sociedade, principalmente sobre os mais jovens?
 
 ## Objetivos
 
