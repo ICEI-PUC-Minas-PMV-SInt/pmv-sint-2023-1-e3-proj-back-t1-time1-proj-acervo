@@ -10,7 +10,7 @@ O Brasil enfrenta, há alguns anos, um grande problema em relação ao número d
 O objetivo geral é desenvolver um software com um acervo digital dentro de uma biblioteca, o sistema deve auxiliar estudantes em suas pesquisas e trabalhos acadêmicos. Entende-se também que facilitando a busca por livros através de um software moderno, pode-se atrair mais pessoas ao espaço.
 
 > - A finalidade do sistema: auxiliar estudantes e leitores no geral;
-> - A delimitação: em pesquisas, trabalhos acadêmicos e leituras no geral.
+> - A delimitação: facilitando a busca por obras dentro da instituição.
 
 
 ## Justificativa
