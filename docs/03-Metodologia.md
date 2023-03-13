@@ -10,7 +10,7 @@ Ambiente   | Plataforma | Link de acesso
 Repositório de código fonte | GitHub | <a>https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo</a>
 Documentos do projeto | GitHub  | <a>[https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/tree/main/docs)</a>
 Projeto de Interface | Figma  | <a></a>
-Gerenciamento do Projeto | Trello  | <a>https://trello.com/b/viGGDE7A/projeto-acervo-biblioteca-%F0%9F%93%9A</a>
+Gerenciamento do Projeto | Trello  | <a>https://trello.com/b/viGGDE7A/projeto-acervo-biblioteca</a>
 
 ### Divisão de Papéis
 
