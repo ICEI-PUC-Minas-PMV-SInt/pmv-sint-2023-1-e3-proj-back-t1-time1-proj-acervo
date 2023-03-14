@@ -20,9 +20,9 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas: 
  
-⦁ Para fazer: Atividades que precisam ser concluídas, mas estão pendentes.
-⦁ Fazendo: Tarefa já iniciada pelo time.
-⦁ Feito: Tarefas já concluídas.
+⦁ Para fazer: Atividades que precisam ser concluídas, mas estão pendentes.<br>
+⦁ Fazendo: Tarefa já iniciada pelo time.<br>
+⦁ Feito: Tarefas já concluídas.<br>
 ⦁ Bloqueio: Lista responsável por agregar as tarefas que não foram concluídas por algum bloqueio.
 
 O quadro Trello do grupo desenvolvido na ferramenta de gerenciamento de projetos está disponível através do [Trello](https://trello.com/b/viGGDE7A/projeto-acervo-biblioteca-%F0%9F%93%9A) e é apresentado, no estado atual, na Figura. 
