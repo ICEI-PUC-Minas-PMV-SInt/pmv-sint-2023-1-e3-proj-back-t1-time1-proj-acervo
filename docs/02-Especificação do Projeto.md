@@ -64,7 +64,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| O sistema deve ser flexível e capaz de se adaptar às mudanças nos requisitos e na estrutura organizacional. |ALTA| 
 |RNF-004| O sistema deve ser confiável, com alteração de backup e recuperação de falhas para garantir a integridade dos dados. |MÉDIA| 
 |RNF-005| O sistema deverá ser desenvolvido na linguagem C#. |ALTA| 
-|RNF-006| O sistema deverá usar um bando de dados relacional |ALTA| 
+|RNF-006| O sistema deverá usar um banco de dados relacional |ALTA| 
 |RNF-007| O sistema deverá usar de uma arquitetura MVC |ALTA|
 |RNF-008| O sistema deverá ser acessado a partir da web, utilizando os prinicipais navegadores existentes |ALTA|
 
