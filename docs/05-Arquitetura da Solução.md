@@ -24,12 +24,11 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 Link para visualização: https://lucid.app/lucidchart/15cf55ca-eadd-4a92-ae1c-234b1f37c063/edit?viewport_loc=-517%2C-186%2C2990%2C1224%2C0_0&invitationId=inv_33dc2a51-c198-447c-a6de-6a71ea65ea87
 
 ## Modelo Físico (DDL)
-
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+<li><a href="src/bd/Scripts de Criação das Tabelas - DDL.sql"> Scripts de Manipulação do BD do tipo DDL</a></li>
 
 ## Instruções SQL de Manipulação do BD (DML)
 
-Entregar um arquivo dml.sql contendo os scripts de manipulação de banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+<li><a href="src/bd/Scripts - DML.sql"> Scripts de Manipulação do BD do tipo DML</a></li>
 
 ## Tecnologias Utilizadas
 
