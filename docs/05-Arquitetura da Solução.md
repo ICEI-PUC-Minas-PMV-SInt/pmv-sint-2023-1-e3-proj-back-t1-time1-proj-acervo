@@ -24,11 +24,13 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 Link para visualização: https://lucid.app/lucidchart/15cf55ca-eadd-4a92-ae1c-234b1f37c063/edit?viewport_loc=-517%2C-186%2C2990%2C1224%2C0_0&invitationId=inv_33dc2a51-c198-447c-a6de-6a71ea65ea87
 
 ## Modelo Físico (DDL)
-<li><a href="src/bd/Scripts de Criação das Tabelas - DDL.sql"> Scripts de Manipulação do BD do tipo DDL</a></li>
+
+- [Scripts de Manipulação do BD do tipo DDL](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/4a3c4a3fecf0621e46f0fd16bdea77ade54a0bc7/src/bd/Scripts%20de%20Cria%C3%A7%C3%A3o%20das%20Tabelas%20-%20DDL.sql)
 
 ## Instruções SQL de Manipulação do BD (DML)
 
-<li><a href="src/bd/Scripts - DML.sql"> Scripts de Manipulação do BD do tipo DML</a></li>
+- [Scripts de Manipulação do BD do tipo DML](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/4a3c4a3fecf0621e46f0fd16bdea77ade54a0bc7/src/bd/Scripts%20-%20DML.sql)
+
 
 ## Tecnologias Utilizadas
 
