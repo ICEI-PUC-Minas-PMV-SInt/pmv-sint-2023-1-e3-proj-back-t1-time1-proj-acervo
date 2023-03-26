@@ -1,6 +1,6 @@
 -- Criar tabela tbl_book
 CREATE TABLE tbl_book (
-  id_book INT NOT NULL AUTO_INCREMENT,
+  id_book INT NOT NULL,
   title_book VARCHAR(255) NOT NULL,
   type_book VARCHAR(255) NOT NULL,
   author_book VARCHAR(255) NOT NULL,
@@ -12,7 +12,7 @@ CREATE TABLE tbl_book (
 
 -- Criar tabela tbl_user
 CREATE TABLE tbl_user (
-  id_user INT,
+  id_user INT NOT NULL,
   name_user VARCHAR(255) NOT NULL,
   cpf_user VARCHAR(11) NOT NULL,
   password_user VARCHAR(255) NOT NULL,
@@ -25,7 +25,7 @@ CREATE TABLE tbl_user (
 
 -- Criar tabela tbl_reserve
 CREATE TABLE tbl_reserve (
-  id_reserve INT ,
+  id_reserve INT NOT NULL,
   id_user INT NOT NULL,
   id_book INT NOT NULL,
   date_reserve DATETIME NOT NULL,
