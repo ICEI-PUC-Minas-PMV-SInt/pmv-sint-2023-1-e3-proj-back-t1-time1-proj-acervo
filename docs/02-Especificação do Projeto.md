@@ -36,45 +36,42 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deve permitir o registro de livros, incluindo informações como título, autor, editora, ano de publicação, número de páginas apenas pelo administrador do sistema. |ALTA| 
-|RF-002| O sistema deve permitir a catalogação dos livros de acordo com diferentes critérios, como autor, título, assunto. |MÉDIA|
-|RF-003| O sistema deve permitir o agendamento para emprestimo de livros para usuários, incluindo a definição de prazos e limites de empréstimo. |ALTA| 
-|RF-004| O sistema deve permitir o agendamento para empréstimo de livros, desde que o livro esteja disponível |MÉDIA|
-|RF-005| O sistema deve permitir que os usuários acessem o acervo de livros remotamente, através de uma plataforma online, por exemplo. |ALTA| 
-|RF-006| O sistema deve permitir o cadastro, consulta, atualização e exclusão dos livros por parte do administrador. |ALTA| 
-|RF-007| O sistema deve permitir a inclusão de um sistemas de tags em cada livro |ALTA| 
+|RF-001| O sistema deve permitir o cadastro, consulta, atualização e exclusão dos livros por parte do administrador. |ALTA|
+|RF-002| O sistema deve permitir o registro de livros incluindo informações como título, autor, editora, ano de publicação, número de páginas apenas pelo administrador do sistema. |ALTA| 
+|RF-003| O sistema deve validar se todos so campos estão devidamente preenchidos por parte do admistrador na hora de cadastrar ou atualizar informações de livros na base dados da aplicação |ALTA|
+|RF-004| O sistema deve restringir que apenas o administrador consiga fazer alterações na base de dados (inclusão, alteração, remoção) da aplicação |ALTA|
+|RF-005| O sistema deve permitir a catalogação dos livros de acordo com diferentes critérios, como autor, título, assunto. |ALTA|
+|RF-006| O sistema deve permitir que os usuários acessem o acervo de livros remotamente, através de uma plataforma online, por exemplo. |ALTA| 
+|RF-007| O sistema deve permitir a inclusão de um sistemas de tags em cada livro |ALTA|
 |RF-008| O sistema deve permitir a utlização de filtros para organizar as tags incluidas em cada livro |ALTA| 
-|RF-009| O sistema deve restringir que apenas o administrador consiga fazer alterações na base de dados (inclusão, alteração, remoção) da aplicação |ALTA| 
-|RF-010| O sistema deve restringir o usuário a apenas consultar e agendar um emprestimo ou devolução de livros |ALTA| 
-|RF-011| O sistema deve permitir o agendamento da devolução dos livros. |ALTA| 
-|RF-012| O sistema deve ser claro e intuitivo para o usuário, permitindo que ele consiga mapear fisicamente onde está o livro pesquisado |ALTA| 
-|RF-013| O sistema deve devolver um alerta caso o livro não tenhas sido encontrado ou não exista |ALTA|
-|RF-014| O sistema deve indicar por meio de um sistema de tags se o livro está indisponível para o uso durante a pesquisa do mesmo |ALTA|
-|RF-015| O sistema deve indicar se o livro está disponivel para o uso durante a pesquisa, utilizando um sistema de tags para isso. |ALTA|
-|RF-016| O sistema deve validar se todos so campos estão devidamente preenchidos por parte do admistrador na hora de cadastrar ou atualizar informações de livros na base dados da aplicação |ALTA|
-|RF-017| O sistema deve criar rotas para validar que determinados campos só estarão visíveis para o admistrador do sistema |ALTA|
-
+|RF-009| O sistema deve restringir o usuário a apenas consultar e agendar um emprestimo ou devolução de livros |ALTA|
+|RF-010| O sistema deve ser claro e intuitivo para o usuário, permitindo que ele consiga mapear fisicamente onde está o livro pesquisado |ALTA|
+|RF-011| O sistema deve criar rotas para validar que determinados campos só estarão visíveis para o admistrador do sistema |ALTA|
+|RF-012| O sistema deve devolver um alerta caso o livro não tenhas sido encontrado ou não exista |MEDIA|
+|RF-013| O sistema deve permitir o agendamento da devolução dos livros. |BAIXA| 
+|RF-014| O sistema deve indicar por meio de um sistema de tags se o livro está indisponível para o uso durante a pesquisa do mesmo |BAIXA|
+|RF-015| O sistema deve permitir o agendamento para emprestimo de livros para usuários, incluindo a definição de prazos e limites de empréstimo. |BAIXA| 
+|RF-016| O sistema deve permitir o agendamento para empréstimo de livros, desde que o livro esteja disponível |BAIXA|
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser capaz de lidar com um grande número de usuários e transações simultâneas sem comprometer o desempenho. |MÉDIA| 
-|RNF-002| O sistema deve estar disponível para uso a maior parte do tempo, com tempos de inatividade planejados para manutenção. |MÉDIA| 
-|RNF-003| O sistema deve ser flexível e capaz de se adaptar às mudanças nos requisitos e na estrutura organizacional. |ALTA| 
-|RNF-004| O sistema deve ser confiável, com alteração de backup e recuperação de falhas para garantir a integridade dos dados. |MÉDIA| 
-|RNF-005| O sistema deverá ser desenvolvido na linguagem C#. |ALTA| 
-|RNF-006| O sistema deverá usar um banco de dados relacional |ALTA| 
-|RNF-007| O sistema deverá usar de uma arquitetura MVC |ALTA|
-|RNF-008| O sistema deverá ser acessado a partir da web, utilizando os prinicipais navegadores existentes |ALTA|
-
+|RNF-001| O sistema deverá ser desenvolvido na linguagem C#. |ALTA|
+|RNF-002| O sistema deverá usar um banco de dados relacional |ALTA| 
+|RNF-003| O sistema deverá usar de uma arquitetura MVC |ALTA|
+|RNF-004| O sistema deverá ser acessado a partir da web, utilizando os prinicipais navegadores existentes |ALTA|
+|RNF-005| O sistema deve ser flexível e capaz de se adaptar às mudanças nos requisitos e na estrutura organizacional. |ALTA|
+|RNF-006| O sistema deve ser capaz de lidar com um grande número de usuários e transações simultâneas sem comprometer o desempenho. |MÉDIA| 
+|RNF-007| O sistema deve estar disponível para uso a maior parte do tempo, com tempos de inatividade planejados para manutenção. |MÉDIA| 
+|RNF-008| O sistema deve ser confiável, com alteração de backup e recuperação de falhas para garantir a integridade dos dados. |MÉDIA|
 
 ## Restrições
 
 |ID     | Título  | Restrição |
 |-------|-------------------------|----|
 |01|CICLO DE VIDA | Devido ao baixo orçamento, utilizaremos um ciclo incremental e iterativo, para definir requisitos essenciais e requisitos.
-|02| PRAZO & TIMING | O projeto deverá ser entregue até o fim do semestre 2022.2.
+|02| PRAZO & TIMING | O projeto deverá ser entregue até o fim do semestre 2023.1.
 |03| POLÍTICA & ASPECTOS LEGAIS | O projeto deve estar em conformidade com os parâmetros instituídos na LGPD (Lei Geral de Proteção de Dados).| 
 |04| ACESSO NAVEGADOR | O acesso ao sistema deverá ser feito atráveis da web, a partir dos principais navegadores existentes | 
 |05| LINGUAGEM E TECNOLOGIA |O sistema deve ser escrito e entregue na linguagem de programação C# | 
