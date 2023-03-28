@@ -19,9 +19,9 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 
 ## Esquema Relacional
 
-![image](https://user-images.githubusercontent.com/96079882/225179051-ba4c6d64-4f56-4b72-8154-251e04b37588.png)
+![Esquema Relacional](https://user-images.githubusercontent.com/96079882/228292404-0af89e67-12bf-4a06-b246-1eef9a3889f8.jpg)
 
-- [CLique aqui para visualizar](https://lucid.app/lucidchart/15cf55ca-eadd-4a92-ae1c-234b1f37c063/edit?viewport_loc=-517%2C-186%2C2990%2C1224%2C0_0&invitationId=inv_33dc2a51-c198-447c-a6de-6a71ea65ea87)
+- [CLique aqui para visualizar](https://lucid.app/lucidchart/2ee5cd03-7b73-4668-b7ec-11699030d885/edit?viewport_loc=0%2C96%2C1792%2C857%2C0_0&invitationId=inv_fb859e4a-ef2c-4fb3-b2af-8151f1de62ba)
 
 ## Modelo Físico (DDL)
 
