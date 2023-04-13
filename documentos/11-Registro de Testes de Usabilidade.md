@@ -1,6 +1,6 @@
 # Registro de Testes de Usabilidade
 
-Pré-requisitos: [Plano de teste de Usabilidade]<a>https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/main/docs/10-Plano%20de%20Testes%20de%20Usabilidade.md<a>
+Pré-requisitos: [Plano de teste de Usabilidade] (<a>https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/main/docs/10-Plano%20de%20Testes%20de%20Usabilidade.md<a>)
 
 Após realizar os testes de usabilidade, obtém-se um relatório a partir das análises realizadas. O Registro de Testes de Usabilidade é um relatório que contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de uso desta etapa.
 
