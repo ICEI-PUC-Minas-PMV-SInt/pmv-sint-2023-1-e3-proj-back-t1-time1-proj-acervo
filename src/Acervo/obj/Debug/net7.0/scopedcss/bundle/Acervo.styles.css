@@ -1,43 +1,79 @@
 /* _content/Acervo/Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
-
-a.navbar-brand[b-0raek77q90] {
-  white-space: normal;
-  text-align: center;
-  word-break: break-all;
+html[b-0raek77q90] {
+  box-sizing: border-box;
+  font-size: 16px;
 }
 
-a[b-0raek77q90] {
-  color: #0077cc;
+*[b-0raek77q90],
+*[b-0raek77q90]:before,
+*[b-0raek77q90]:after {
+  box-sizing: inherit;
 }
 
-.btn-primary[b-0raek77q90] {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+body[b-0raek77q90],
+h1[b-0raek77q90],
+h2[b-0raek77q90],
+h3[b-0raek77q90],
+h4[b-0raek77q90],
+h5[b-0raek77q90],
+h6[b-0raek77q90],
+p[b-0raek77q90],
+ol[b-0raek77q90],
+ul[b-0raek77q90] {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
 }
 
-.nav-pills .nav-link.active[b-0raek77q90], .nav-pills .show > .nav-link[b-0raek77q90] {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+body[b-0raek77q90] {
+  background-color: #f2f2f2;
 }
 
-.border-top[b-0raek77q90] {
-  border-top: 1px solid #e5e5e5;
-}
-.border-bottom[b-0raek77q90] {
-  border-bottom: 1px solid #e5e5e5;
+ol[b-0raek77q90],
+ul[b-0raek77q90] {
+  list-style: none;
 }
 
-.box-shadow[b-0raek77q90] {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+img[b-0raek77q90] {
+  max-width: 100%;
+  height: auto;
 }
 
-button.accept-policy[b-0raek77q90] {
-  font-size: 1rem;
-  line-height: inherit;
+.container-header[b-0raek77q90] {
+  margin-top: 2rem;
+  display: flex;
+  background-color: #407bff;
+  padding: 1rem;
+  width: 100%;
+}
+
+.container-nav[b-0raek77q90] {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0 3rem;
+}
+
+.busca-book[b-0raek77q90] {
+  color: white;
+  font-weight: bold;
+}
+
+.container-nav ul[b-0raek77q90] {
+  display: flex;
+  margin: 0 auto;
+  gap: 6rem;
+  text-transform: uppercase;
+  color: white;
+  font-weight: bold;
+  font-size: 0.8rem;
+}
+
+.ul[b-0raek77q90] {
+  display: flex;
 }
 
 .footer[b-0raek77q90] {

@@ -3538,19 +3538,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Marcia\\.nuget\\packages\\": {}
+    "C:\\Users\\Kyo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projeto - clone marcia\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\\src\\Acervo\\Acervo.csproj",
+      "projectUniqueName": "D:\\ROTINA\\ESTUDOS\\Puc - Terceiro Semestre\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\Acervo\\Acervo.csproj",
       "projectName": "Acervo",
-      "projectPath": "C:\\projeto - clone marcia\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\\src\\Acervo\\Acervo.csproj",
-      "packagesPath": "C:\\Users\\Marcia\\.nuget\\packages\\",
-      "outputPath": "C:\\projeto - clone marcia\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\\src\\Acervo\\obj\\",
+      "projectPath": "D:\\ROTINA\\ESTUDOS\\Puc - Terceiro Semestre\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\Acervo\\Acervo.csproj",
+      "packagesPath": "C:\\Users\\Kyo\\.nuget\\packages\\",
+      "outputPath": "D:\\ROTINA\\ESTUDOS\\Puc - Terceiro Semestre\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\Acervo\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Marcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3620,7 +3625,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
