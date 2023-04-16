@@ -1,0 +1,50 @@
+# Registro de Teste de Usabilidade
+
+Pré-requisitos:[Especificação do Projeto](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md), [Plano de Testes de Usabilidade](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/main/docs/10-Plano%20de%20Testes%20de%20Usabilidade.md)
+
+|**Caso de Teste** | **CT-01 – Realizar a função CRUD**|
+| ----------------- | --------------------------------|
+| **Requisitos Associados**| **RF-001** -  O sistema deve permitir o cadastro, consulta, atualização e exclusão dos livros por parte do administrador|
+| **Objetivo do Teste** | Verificar se há alguma inconsistência às operações de D**CRUD** |
+| **Passos** | 1) Acessar o Navegador (Google Chrome, Microsoft Edge, Firefox...<br> 2) Informar a URL do Site<br> 3) Informar a senha de Administrador<br>3) Efetuar as operações de CRUD<br> “Create (criar), Read (ler), Update (atualizar) e Delete (apagar)”
+| **Critérios de Êxito** | -●	O Navegador deve abrir o site<br>-●	O administrador deve ter acesso a área restrita<br>-●	O administrador realiza a: inclusão, consulta, atualização e exclusão de livros de maneira eficaz
+| **Caso de Teste**| **CT-02 - Validação de Dados**|
+|**Requisitos Associa**| **RF-002** - O sistema deve validar se todos os campos estão devidamente preenchidos por parte do administrador na hora de cadastrar ou atualizar informações de livros na base de dados da aplicação|
+| **Objetivo do Teste* |Garantir que o sistema valide se todos os campos necessários para o cadastro ou atualização de informações de livros, foram devidamente preenchidos pelo administrador|
+| **Passos** | 01)  Identificar os campos obrigatórios: é importante definir quais campos são obrigatórios para cadastro ou atualização das informações de livr01)os, como: nome do autor, título do livro, editora, ano de publicação, etc <br> 02) Validar o formato dos campos, é necessário validar o formato das informações inseridas em cada um deles. Por exemplo: é importante verificar se o ano de publicação foi inserido no formato correto (AAAA), se o ISBN contém apenas números <br> 03) Para alguns campos são necessários estabelecer o limite de caracteres, é necessário verificar se as informações inseridas estão dentro desses parâmetros <br>  04)  Identificar possíveis conflitos, verificar conflitos na base de dados. Por exemplo, se o título do livro já existe, não é possível cadastrar outro livro com o mesmo título
+|  **Critério de Esito** | -  ●	O cadastro deve admitir somente os formatos válidos para cadastro ou atualizações <br>  -  ●	A atualização não deve aceitar alteração de dados do livro.
+| **Caso de Teste** | **CT-03 - Acesso do Usuário**|
+| **Requisitos Associados** | **RF-006** - O sistema deve permitir que os usuários acessem o acervo de livros à distância, através de uma plataforma online, por exemplo
+| **Objeti do Teste**| Verificar se o sistema permite que os usuários acessem o acervo de livros a distância através de uma plataforma online. Garantir que o sistema esteja funcionando corretamente e que os usuários possam acessar os livros de forma fácil e rápida, sem enfrentar problemas de conexão, lentidão e outros impedimentos  |
+| **Passos** | 01)  Acessar o Navegador (Google Chrome, Microsoft Edge, Firefox...) <br>  02) Informar a URL do Site <br>  03) Se já possui uma conta na plataforma, faça login, digitando seu nome de usuário e senha <br> 04) Caso seja sua primeira vez no site, clique em “Criar uma conta” e siga as instruções para se reg <br> 05)  Navegue pela plataforma, pesquisando por títulos ou utilizando as categorias de gênero para encontrar os livros de seu interes |
+| **Critérios de Êxito**| - ●	A plataforma deve ser facilmente acessível <br>  - ●	A plataforma deve ter uma plataforma amigável e fácil de usar <br>  - ●	A plataforma deve ter um acervo diversificado e atualizado <br>  - ●	A plataforma deve ter recursos avançados de pesquisa, incluindo busca por palavra-chave, pesquisa por autor, editora e categoria <br>  -  ●	A plataforma deve garantir a segurança de dados dos usuários garantindo que as informações pessoais e de pagamento sejam protegidas e confidenciais|
+
+#  TESTE DE USABILIDADE
+
+## Metodologia:
+###### - Presencial
+###### - Ambiente controlado
+###### - Aplicação de questionário e realização de tarefas
+
+## Tarefas
+###### - Cadastrar, editar e excluir usuários (CRUD)
+###### - Explorar o siatema
+######  - Descrever a utilidade dos ícones da pagina
+
+# RESULTADO
+
+## Cada tarefa recebeu uma nota de 0 a 5, em que 0 indica que o participante não conseguiu fazer o que foi solicitado, e 5 indica que a tarefa foi realizada com sucesso
+
+| **Participantes**| **Entendimento do Software** | **Loginn**| **Cadastro, Edição e Exclusão** | **Entendimento dos Ícones e Botões|
+|-------------------|------------------------------|----------|---------------------------------|-----------------------------------|
+| **Participante 1** |
+| **Participante 2**|
+| **Participante 3**|
+|   **Médi**
+
+# Conclusão
+######  -
+###### - 
+###### -
+
+
