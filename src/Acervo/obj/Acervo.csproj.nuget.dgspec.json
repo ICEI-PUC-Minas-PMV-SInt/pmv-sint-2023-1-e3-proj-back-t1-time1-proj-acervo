@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcia\\Documents\\teste\\teste01\\.git\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\Acervo\\Acervo.csproj": {}
+    "C:\\projeto - clone marcia\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\\src\\Acervo\\Acervo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcia\\Documents\\teste\\teste01\\.git\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\Acervo\\Acervo.csproj": {
+    "C:\\projeto - clone marcia\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\\src\\Acervo\\Acervo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcia\\Documents\\teste\\teste01\\.git\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\Acervo\\Acervo.csproj",
+        "projectUniqueName": "C:\\projeto - clone marcia\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\\src\\Acervo\\Acervo.csproj",
         "projectName": "Acervo",
-        "projectPath": "C:\\Users\\Marcia\\Documents\\teste\\teste01\\.git\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\Acervo\\Acervo.csproj",
+        "projectPath": "C:\\projeto - clone marcia\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\\src\\Acervo\\Acervo.csproj",
         "packagesPath": "C:\\Users\\Marcia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcia\\Documents\\teste\\teste01\\.git\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\Acervo\\obj\\",
+        "outputPath": "C:\\projeto - clone marcia\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\\src\\Acervo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Marcia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Marcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,9 +40,29 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -62,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

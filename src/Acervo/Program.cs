@@ -1,6 +1,18 @@
+using Acervo.Dados;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+var connectionStringMyql = builder.Configuration.GetConnectionString("ConnectionMysql");
+builder.Services.AddDbContext<LoginDbContext>(options => options.UseMySql(
+    connectionStringMyql,
+    ServerVersion.Parse("8.0.32 MySQL Community Server -  GPL")
+    )
+);
+
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

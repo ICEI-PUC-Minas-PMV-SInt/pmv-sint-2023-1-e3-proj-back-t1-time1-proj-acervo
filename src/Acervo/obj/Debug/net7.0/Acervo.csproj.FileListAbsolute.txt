@@ -99,3 +99,234 @@ C:\Users\Marcia\Documents\teste\teste01\.git\pmv-sint-2023-1-e3-proj-back-t1-tim
 C:\Users\Marcia\Documents\teste\teste01\.git\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Marcia\Documents\teste\teste01\.git\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Marcia\Documents\teste\teste01\.git\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\Acervo.csproj.CopyComplete
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\appsettings.Development.json
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\appsettings.json
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.staticwebassets.runtime.json
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.exe
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.deps.json
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.runtimeconfig.json
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.pdb
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Azure.Core.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Azure.Identity.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Humanizer.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\MySqlConnector.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.CodeDom.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Memory.Data.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.csproj.AssemblyReference.cache
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.AssemblyInfoInputs.cache
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.AssemblyInfo.cs
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.csproj.CoreCompileInputs.cache
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.MvcApplicationPartsAssemblyInfo.cache
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.RazorAssemblyInfo.cache
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.RazorAssemblyInfo.cs
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets\msbuild.Acervo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets\msbuild.build.Acervo.props
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Acervo.props
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Acervo.props
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets.build.json
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets.development.json
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\scopedcss\bundle\Acervo.styles.css
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\scopedcss\projectbundle\Acervo.bundle.scp.css
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.csproj.CopyComplete
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\refint\Acervo.dll
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.pdb
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.genruntimeconfig.cache
+C:\projetos\Nova pasta\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\ref\Acervo.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\appsettings.Development.json
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\appsettings.json
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.staticwebassets.runtime.json
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.exe
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.deps.json
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.runtimeconfig.json
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.pdb
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Azure.Core.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Azure.Identity.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Humanizer.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\MySqlConnector.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.CodeDom.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Memory.Data.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.csproj.AssemblyReference.cache
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.AssemblyInfoInputs.cache
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.AssemblyInfo.cs
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.csproj.CoreCompileInputs.cache
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.MvcApplicationPartsAssemblyInfo.cache
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.RazorAssemblyInfo.cache
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.RazorAssemblyInfo.cs
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets\msbuild.Acervo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets\msbuild.build.Acervo.props
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Acervo.props
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Acervo.props
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets.build.json
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets.development.json
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\scopedcss\bundle\Acervo.styles.css
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\scopedcss\projectbundle\Acervo.bundle.scp.css
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.csproj.CopyComplete
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\refint\Acervo.dll
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.pdb
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.genruntimeconfig.cache
+C:\projetos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\ref\Acervo.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.csproj.AssemblyReference.cache
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.GeneratedMSBuildEditorConfig.editorconfig
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.AssemblyInfoInputs.cache
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.AssemblyInfo.cs
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.csproj.CoreCompileInputs.cache
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.MvcApplicationPartsAssemblyInfo.cache
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.RazorAssemblyInfo.cache
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.RazorAssemblyInfo.cs
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\refint\Acervo.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.pdb
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\appsettings.Development.json
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\appsettings.json
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.staticwebassets.runtime.json
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.exe
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.deps.json
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.runtimeconfig.json
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Acervo.pdb
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Azure.Core.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Azure.Identity.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Humanizer.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\MySqlConnector.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.CodeDom.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Memory.Data.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets\msbuild.Acervo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets\msbuild.build.Acervo.props
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Acervo.props
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Acervo.props
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets.build.json
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\staticwebassets.development.json
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\scopedcss\bundle\Acervo.styles.css
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\scopedcss\projectbundle\Acervo.bundle.scp.css
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.csproj.CopyComplete
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\Acervo.genruntimeconfig.cache
+C:\projeto - clone marcia\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo-main\src\Acervo\obj\Debug\net7.0\ref\Acervo.dll
