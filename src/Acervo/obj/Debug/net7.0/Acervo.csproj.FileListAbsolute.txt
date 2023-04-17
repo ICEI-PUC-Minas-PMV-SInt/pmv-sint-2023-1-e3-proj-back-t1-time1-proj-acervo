@@ -398,9 +398,7 @@ D:\ROTINA\ESTUDOS\Puc - Terceiro Semestre\pmv-sint-2023-1-e3-proj-back-t1-time1-
 D:\ROTINA\ESTUDOS\Puc - Terceiro Semestre\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\staticwebassets.pack.json
 D:\ROTINA\ESTUDOS\Puc - Terceiro Semestre\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\staticwebassets.build.json
 D:\ROTINA\ESTUDOS\Puc - Terceiro Semestre\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\staticwebassets.development.json
-D:\ROTINA\ESTUDOS\Puc - Terceiro Semestre\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\ROTINA\ESTUDOS\Puc - Terceiro Semestre\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\scopedcss\bundle\Acervo.styles.css
-D:\ROTINA\ESTUDOS\Puc - Terceiro Semestre\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\scopedcss\projectbundle\Acervo.bundle.scp.css
 D:\ROTINA\ESTUDOS\Puc - Terceiro Semestre\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\Acervo.csproj.CopyComplete
 D:\ROTINA\ESTUDOS\Puc - Terceiro Semestre\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\Acervo.dll
 D:\ROTINA\ESTUDOS\Puc - Terceiro Semestre\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\refint\Acervo.dll

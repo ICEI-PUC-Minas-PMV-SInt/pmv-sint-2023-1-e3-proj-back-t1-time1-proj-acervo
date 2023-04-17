@@ -1,22 +1,110 @@
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
 html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
+    box-sizing: border-box;
     font-size: 16px;
-  }
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+a {
+    text-decoration: none;
 }
 
-html {
-  position: relative;
-  min-height: 100%;
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", sans-serif;
 }
 
 body {
-  margin-bottom: 60px;
+    background-color: #f2f2f2;
 }
+
+ol,
+ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.container-header {
+    display: flex;
+    background-color: #407bff;
+    padding: 1rem;
+    width: 100%;
+}
+
+.container-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.container-nav div a {
+    font-size: 1.5rem;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.busca-book {
+    color: white;
+    font-weight: bold;
+}
+
+.container-nav ul {
+    display: flex;
+    margin: 0 auto;
+    gap: 6rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.8rem;
+}
+
+.home, .catalogo, .login {
+    color: #FFFFFF;
+    font-size: 1.125rem;
+    font-weight: 200;
+    opacity: 50%
+}
+.home:hover, .catalogo:hover, .login:hover {
+    font-weight: bold;
+    opacity: 100%;
+    color: #FFFFFF
+
+}
+
+.active {
+    font-weight: bold;
+    opacity: 100%
+}
+
+.ul {
+    display: flex;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+
