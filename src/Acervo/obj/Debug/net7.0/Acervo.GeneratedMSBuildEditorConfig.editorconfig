@@ -9,45 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Acervo
 build_property.RootNamespace = Acervo
-build_property.ProjectDir = D:\ROTINA\ESTUDOS\Puc - Terceiro Semestre\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\
+build_property.ProjectDir = C:\Users\l.lopes\Workspaces\Csharp\puc\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ROTINA\ESTUDOS\Puc - Terceiro Semestre\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo
+build_property.MSBuildProjectDirectory = C:\Users\l.lopes\Workspaces\Csharp\puc\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ROTINA/ESTUDOS/Puc - Terceiro Semestre/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/Catalogo/Index.cshtml]
+[C:/Users/l.lopes/Workspaces/Csharp/puc/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/Catalogo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ29cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ROTINA/ESTUDOS/Puc - Terceiro Semestre/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/Home/Index.cshtml]
+[C:/Users/l.lopes/Workspaces/Csharp/puc/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/Catalogo/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ29cUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/l.lopes/Workspaces/Csharp/puc/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ROTINA/ESTUDOS/Puc - Terceiro Semestre/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/Login/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+[C:/Users/l.lopes/Workspaces/Csharp/puc/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/Login/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5caW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ROTINA/ESTUDOS/Puc - Terceiro Semestre/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/Shared/Error.cshtml]
+[C:/Users/l.lopes/Workspaces/Csharp/puc/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ROTINA/ESTUDOS/Puc - Terceiro Semestre/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/Shared/_LayoutDeslogado.cshtml]
+[C:/Users/l.lopes/Workspaces/Csharp/puc/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/Shared/_LayoutDeslogado.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREZXNsb2dhZG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ROTINA/ESTUDOS/Puc - Terceiro Semestre/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/l.lopes/Workspaces/Csharp/puc/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ROTINA/ESTUDOS/Puc - Terceiro Semestre/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/_ViewImports.cshtml]
+[C:/Users/l.lopes/Workspaces/Csharp/puc/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ROTINA/ESTUDOS/Puc - Terceiro Semestre/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/_ViewStart.cshtml]
+[C:/Users/l.lopes/Workspaces/Csharp/puc/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ROTINA/ESTUDOS/Puc - Terceiro Semestre/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/Shared/_Layout.cshtml]
+[C:/Users/l.lopes/Workspaces/Csharp/puc/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/Acervo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-0raek77q90
