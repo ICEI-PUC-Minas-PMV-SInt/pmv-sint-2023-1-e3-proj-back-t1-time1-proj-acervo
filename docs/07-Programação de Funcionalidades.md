@@ -12,6 +12,7 @@ Dia 16/04
 - Entendimento do projeto e frameworks
 - Criação de Rota para catálogo
 - Criação de template padrão da página catálogo 1/2
+
 Dia 17/04
 - Refatoração e finalização do header das páginas
 - Criação e configuração do .gitignore
