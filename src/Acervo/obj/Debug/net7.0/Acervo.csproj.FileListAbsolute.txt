@@ -482,3 +482,6 @@ C:\Users\l.lopes\Workspaces\Csharp\puc\pmv-sint-2023-1-e3-proj-back-t1-time1-pro
 C:\Users\l.lopes\Workspaces\Csharp\puc\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\Acervo.pdb
 C:\Users\l.lopes\Workspaces\Csharp\puc\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\Acervo.genruntimeconfig.cache
 C:\Users\l.lopes\Workspaces\Csharp\puc\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\ref\Acervo.dll
+C:\Users\dudin\Backend\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\Acervo.dll
+C:\Users\dudin\Backend\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\refint\Acervo.dll
+C:\Users\dudin\Backend\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\Acervo.pdb
