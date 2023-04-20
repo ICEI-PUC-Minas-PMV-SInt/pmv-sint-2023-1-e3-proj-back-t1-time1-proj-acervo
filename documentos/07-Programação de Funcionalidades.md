@@ -34,4 +34,11 @@ Dia 17/04
 - Adição da action de cadastro no controller do catálogo
 - Criação da View de cadastro de livros
 
+### Marcia Carvalho
+03/04 a  17/04
+-  Estudo dos Microfundamentos da etapa 2
+-  Criação da Tela de Login e  acesso ao banco de dados (em andamento)
+
+
+
 
