@@ -18,13 +18,13 @@ namespace Acervo.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Logar(Usuarios usuarios)
+        public IActionResult Logar(Usuario usuarios)
         {
             try 
             {
                 if (ModelState.IsValid)
                 {
-                    if (usuarios.Usuario == "adm" && usuarios.Senha =="123")
+                    if (usuarios.Nome == "adm" && usuarios.Senha =="123")
                     {
                         return RedirectToAction("Index","Home");
                     }

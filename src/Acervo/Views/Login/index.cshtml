@@ -1,4 +1,4 @@
-@model Usuarios
+@model Usuario
 
 @{
     Layout = "_LayoutDeslogado";
@@ -18,8 +18,8 @@
 <form asp-controller="Login" asp-action="Logar" method="post">
   <div class="mb-3">
     <label for="Usuario" class="form-label">Usuário</label>
-    <input type="text" name="usuario" asp-for="Usuario" class="form-control">
-    @Html.ValidationMessageFor(x => x.Usuario)
+    <input type="text" name="usuario" asp-for="Nome" class="form-control">
+    @Html.ValidationMessageFor(x => x.Nome)
   </div>
   <div class="mb-3">
     <label for="Senha" class="form-label">Senha</label>

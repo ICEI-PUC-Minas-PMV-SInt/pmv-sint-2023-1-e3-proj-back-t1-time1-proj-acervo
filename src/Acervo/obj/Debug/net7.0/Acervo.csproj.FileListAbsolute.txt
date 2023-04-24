@@ -473,9 +473,7 @@ C:\Users\l.lopes\Workspaces\Csharp\puc\pmv-sint-2023-1-e3-proj-back-t1-time1-pro
 C:\Users\l.lopes\Workspaces\Csharp\puc\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\staticwebassets.pack.json
 C:\Users\l.lopes\Workspaces\Csharp\puc\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\l.lopes\Workspaces\Csharp\puc\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\l.lopes\Workspaces\Csharp\puc\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\l.lopes\Workspaces\Csharp\puc\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\scopedcss\bundle\Acervo.styles.css
-C:\Users\l.lopes\Workspaces\Csharp\puc\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\scopedcss\projectbundle\Acervo.bundle.scp.css
 C:\Users\l.lopes\Workspaces\Csharp\puc\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\Acervo.csproj.CopyComplete
 C:\Users\l.lopes\Workspaces\Csharp\puc\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\Acervo.dll
 C:\Users\l.lopes\Workspaces\Csharp\puc\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\Acervo\obj\Debug\net7.0\refint\Acervo.dll

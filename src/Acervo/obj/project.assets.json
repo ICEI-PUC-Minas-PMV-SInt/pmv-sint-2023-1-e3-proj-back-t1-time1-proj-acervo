@@ -3538,19 +3538,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kyo\\.nuget\\packages\\": {}
+    "C:\\Users\\l.lopes\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ROTINA\\ESTUDOS\\Puc - Terceiro Semestre\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\Acervo\\Acervo.csproj",
+      "projectUniqueName": "C:\\Users\\l.lopes\\Workspaces\\Csharp\\puc\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\Acervo\\Acervo.csproj",
       "projectName": "Acervo",
-      "projectPath": "D:\\ROTINA\\ESTUDOS\\Puc - Terceiro Semestre\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\Acervo\\Acervo.csproj",
-      "packagesPath": "C:\\Users\\Kyo\\.nuget\\packages\\",
-      "outputPath": "D:\\ROTINA\\ESTUDOS\\Puc - Terceiro Semestre\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\Acervo\\obj\\",
+      "projectPath": "C:\\Users\\l.lopes\\Workspaces\\Csharp\\puc\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\Acervo\\Acervo.csproj",
+      "packagesPath": "C:\\Users\\l.lopes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\l.lopes\\Workspaces\\Csharp\\puc\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\Acervo\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Kyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\l.lopes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3620,7 +3625,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
