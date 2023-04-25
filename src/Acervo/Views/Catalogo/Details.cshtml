@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Acervo</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/catalogo.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Acervo.styles.css" asp-append-version="true" />
+</head>
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<body>
+    <div class="container-detalhes">
+        <div class="content-livro">
+            <a class="link" asp-controller="Catalogo" asp-action="Index" role="button">Voltar</a>
+            <h2> Descrição da Obra</h2>
+            <p></p>
+        </div>
+    </div>
+</body>
