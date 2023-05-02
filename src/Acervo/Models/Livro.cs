@@ -15,9 +15,9 @@ namespace Acervo.Models
         [Required]
         public string Autor { get; set; }
         [Required]
-        public string Localização { get; set; }
+        public string Localizacao { get; set; }
         [Required]
-        public string AnoPublicação { get; set; }
+        public DateTimeOffset AnoPublicacao { get; set; }
         [Required]
         public bool? Reservado { get; set; }
     }
