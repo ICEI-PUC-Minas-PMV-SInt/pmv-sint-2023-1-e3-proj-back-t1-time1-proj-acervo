@@ -13,7 +13,12 @@ semana 10/04 - 17/04
 
 <img src="https://user-images.githubusercontent.com/96079882/232646398-a58c3380-20ee-40c2-990a-c227583d572d.png" width="300" heigth="300"/> <img src="https://user-images.githubusercontent.com/96079882/232646462-6b3e0015-859a-4750-96a6-9b51e88323f6.png" width="300" heigth="300"> <img src="https://user-images.githubusercontent.com/96079882/232646433-1847ebf8-bbb5-4100-b26b-f0b6d646b735.png" width="300" heigth="300"/> 
 
+semana 25/04 - 02/05
+- Banco de dados configurado em nuvem. 
+- Criação das tabelas (faltando ajustes)
+- Falta a implementação do Entity Framework (será feito dia 02/05)
 
+<img src="https://user-images.githubusercontent.com/96079882/235796382-dc20be3c-ee37-4a09-906e-00423dd99449.png" width="300" heigth="300"/>
 
 ------
 ### Cristhyam Augusto
