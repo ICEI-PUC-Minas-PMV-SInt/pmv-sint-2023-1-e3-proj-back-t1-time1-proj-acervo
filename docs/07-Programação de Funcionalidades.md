@@ -18,7 +18,7 @@ semana 25/04 - 02/05
 - Criação das tabelas (faltando ajustes)
 - Falta a implementação do Entity Framework (será feito dia 02/05)
 
-
+<img src="https://user-images.githubusercontent.com/96079882/235796382-dc20be3c-ee37-4a09-906e-00423dd99449.png" width="300" heigth="300"/>
 
 ------
 ### Cristhyam Augusto
