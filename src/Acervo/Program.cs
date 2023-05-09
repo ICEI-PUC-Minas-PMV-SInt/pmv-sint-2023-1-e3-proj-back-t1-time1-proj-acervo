@@ -1,5 +1,6 @@
 using Acervo.Dados;
 using Microsoft.EntityFrameworkCore;
+using MySqlConnector;
 
 var builder = WebApplication.CreateBuilder(args);
 
