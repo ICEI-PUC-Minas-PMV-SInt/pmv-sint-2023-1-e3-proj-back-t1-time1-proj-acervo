@@ -1,18 +1,15 @@
-using Acervo.Dados;
+using Acervo.DB;
 using Microsoft.EntityFrameworkCore;
-using MySqlConnector;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+string executable = System.Reflection.Assembly.GetExecutingAssembly().Location;
+string path = (System.IO.Path.GetDirectoryName(executable)!);
+AppDomain.CurrentDomain.SetData("DataDirectory", path);
 
-var connectionStringMyql = builder.Configuration.GetConnectionString("ConnectionMysql");
-builder.Services.AddDbContext<LoginDbContext>(options => options.UseMySql(
-    connectionStringMyql,
-    ServerVersion.Parse("8.0.32 MySQL Community Server -  GPL")
-    )
-);
-
+var connectionString = builder.Configuration.GetConnectionString("AcervoConnectionString");
+builder.Services.AddDbContext<DataContext>(options => options.UseSqlServer(connectionString));
 
 builder.Services.AddControllersWithViews();
 
@@ -36,5 +33,11 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+using(var scope = app.Services.CreateScope())
+{
+    var dataContext = scope.ServiceProvider.GetRequiredService<DataContext>();
+    dataContext.Database.EnsureCreated();
+}
 
 app.Run();
