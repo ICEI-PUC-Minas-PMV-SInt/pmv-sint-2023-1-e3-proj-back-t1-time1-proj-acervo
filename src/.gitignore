@@ -38,4 +38,6 @@ msbuild.wrn
 .vs
 obj
 bin
+Acervo/bin
+bin/Debug
 bin/Debug/net7.0
