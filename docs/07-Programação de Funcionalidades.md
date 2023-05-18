@@ -26,10 +26,16 @@ Dia 16/04
 - Entendimento do projeto e frameworks
 - Criação de Rota para catálogo
 - Criação de template padrão da página catálogo 1/2
+![image](https://github.com/Cristhyam-Augusto/Project-Euler-Algorithm/assets/102738785/74f7b0a3-a0f9-482c-8e19-7ba25ce98808)
+![image](https://github.com/Cristhyam-Augusto/Project-Euler-Algorithm/assets/102738785/78a06931-3789-4329-b0f0-36bdd7d3e5f9)
+![image](https://github.com/Cristhyam-Augusto/Project-Euler-Algorithm/assets/102738785/90cc922c-2d33-42e2-8aa4-a42e30c12d9f)
 
 Dia 17/04
 - Refatoração e finalização do header das páginas
 - Criação e configuração do .gitignore
+
+![image](https://github.com/Cristhyam-Augusto/Project-Euler-Algorithm/assets/102738785/d52fb6f3-fadc-4ac8-83ad-04630f81b064)
+
 ------
 ### Letícia Rose
 03/04 a 15/04
