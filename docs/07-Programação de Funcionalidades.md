@@ -43,7 +43,12 @@ Dia 17/04
 
 16/04
 - Adição da action de cadastro no controller do catálogo
+<img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/main/docs/img/Evid%C3%AAncias%20-%20Let%C3%ADcia%20Lopes/Entregas%20-%20Etapa%202/1-Endpoint%20Register(Let%C3%ADcia).png" width="500" heigth="300"/>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/main/docs/img/Evid%C3%AAncias%20-%20Let%C3%ADcia%20Lopes/Entregas%20-%20Etapa%202/2-Btn%20de%20add%20livros%20no%20catalogo(Let%C3%ADcia).png" width="500" heigth="300"/>
+
 - Criação da View de cadastro de livros
+<img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/main/docs/img/Evid%C3%AAncias%20-%20Let%C3%ADcia%20Lopes/Entregas%20-%20Etapa%202/3-%20View%20de%20cadastro%20dos%20livros(Let%C3%ADcia).png" width="500" heigth="300"/>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/main/docs/img/Evid%C3%AAncias%20-%20Let%C3%ADcia%20Lopes/Entregas%20-%20Etapa%202/4-%20Tela%20de%20cadastro%20dos%20livros%20(Let%C3%ADcia).png" width="500" heigth="300"/>
 
 ### Marcia Carvalho
 03/04 a  17/04
