@@ -21,6 +21,14 @@ semana 25/04 - 02/05
 <img src="https://user-images.githubusercontent.com/96079882/235796382-dc20be3c-ee37-4a09-906e-00423dd99449.png" width="300" heigth="300"/>
 
 ------
+
+### Luana Berato
+- Prototipagemç
+- Elaboração do layout utilizando o Figma como ferramenta de design.
+<img width="660" src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/68722599/0a96c9e0-59ab-456d-ac41-bc61d1d632d7">
+
+------
+
 ### Cristhyam Augusto
 Dia 16/04
 - Entendimento do projeto e frameworks
