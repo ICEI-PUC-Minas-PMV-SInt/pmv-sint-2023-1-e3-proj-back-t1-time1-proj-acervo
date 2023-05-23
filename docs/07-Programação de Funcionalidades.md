@@ -23,8 +23,9 @@ semana 25/04 - 02/05
 ------
 
 ### Luana Berato
-- Prototipagemç
-- Elaboração do layout utilizando o Figma como ferramenta de design.
+mar/2023
+- Prototipagem;
+- Elaboração do layout utilizando o Figma como ferramenta.
 <img width="660" src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/68722599/0a96c9e0-59ab-456d-ac41-bc61d1d632d7">
 
 ------
