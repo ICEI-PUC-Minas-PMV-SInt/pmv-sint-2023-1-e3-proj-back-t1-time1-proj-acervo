@@ -45,6 +45,18 @@ Dia 17/04
 
 ![image](https://github.com/Cristhyam-Augusto/Project-Euler-Algorithm/assets/102738785/d52fb6f3-fadc-4ac8-83ad-04630f81b064)
 
+Dia 22/05
+- Criação do LivroController
+- Criação dos endpoints e métodos http post e get do LivroController
+![image](https://github.com/Cristhyam-Augusto/Project-Euler-Algorithm/assets/102738785/1b8652c6-6b4f-4b39-961c-64bf1debc670)
+![image](https://github.com/Cristhyam-Augusto/Project-Euler-Algorithm/assets/102738785/d09cf6fc-c1bb-4907-8947-e46fd19ad5f0)
+
+Dia 24/05
+- Criação dos endpointse métodos http put e delete para o LivroController
+- Criação do usuárioController e métodos http put, delete, get e post para ele.
+![image](https://github.com/Cristhyam-Augusto/Project-Euler-Algorithm/assets/102738785/f663e109-39a5-4f71-b3d1-b860e822e73c)
+![image](https://github.com/Cristhyam-Augusto/Project-Euler-Algorithm/assets/102738785/6d475f15-3ebb-424a-898a-85b21c769ae0)
+![image](https://github.com/Cristhyam-Augusto/Project-Euler-Algorithm/assets/102738785/94b913ce-ccdc-4243-9fdb-eedcd2a6684a)
 ------
 ### Letícia Rose
 03/04 a 15/04
