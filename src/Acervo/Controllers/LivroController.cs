@@ -40,5 +40,43 @@ namespace Acervo.Controllers
 
             return Ok(livro);
         }
+
+        [HttpPut("{id}")]
+        public IActionResult AtualizarLivro(Guid id, [FromBody] Livro livroAtualizado)
+        {
+            var livro = _context.Livros.FirstOrDefault(l => l.LivroId == id);
+
+            if (livro == null)
+            {
+                return NotFound();
+            }
+
+            livro.Titulo = livroAtualizado.Titulo;
+            livro.Tipo = livroAtualizado.Tipo;
+            livro.Autor = livroAtualizado.Autor;
+            livro.Localizacao = livroAtualizado.Localizacao;
+            livro.AnoPublicacao = livroAtualizado.AnoPublicacao;
+            livro.Reservado = livroAtualizado.Reservado;
+
+            _context.SaveChanges();
+
+            return Ok(livro);
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult DeletarLivro(Guid id)
+        {
+            var livro = _context.Livros.FirstOrDefault(l => l.LivroId == id);
+
+            if (livro == null)
+            {
+                return NotFound();
+            }
+
+            _context.Livros.Remove(livro);
+            _context.SaveChanges();
+
+            return NoContent();
+        }
     }
 }
