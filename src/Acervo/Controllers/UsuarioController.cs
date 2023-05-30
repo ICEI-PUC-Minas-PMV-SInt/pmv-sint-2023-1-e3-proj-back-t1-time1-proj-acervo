@@ -77,5 +77,22 @@ namespace Acervo.Controllers
 
             return NoContent();
         }
+        [HttpPut("{id}/cancelarreserva")]
+        public IActionResult CancelarReservaLivro(Guid id)
+        {
+            var usuario = _context.Usuarios.Find(id);
+
+            if (usuario == null)
+            {
+                return NotFound();
+            }
+
+            usuario.FezReserva = null;
+
+            _context.SaveChanges();
+
+            return NoContent();
+        }
+
     }
     }

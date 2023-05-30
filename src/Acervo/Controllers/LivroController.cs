@@ -2,6 +2,7 @@ using Acervo.DB;
 using Acervo.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
+using System.Linq;
 
 namespace Acervo.Controllers
 {
@@ -56,7 +57,7 @@ namespace Acervo.Controllers
             livro.Autor = livroAtualizado.Autor;
             livro.Localizacao = livroAtualizado.Localizacao;
             livro.AnoPublicacao = livroAtualizado.AnoPublicacao;
-            livro.Reservado = livroAtualizado.Reservado;
+            livro.Reservado = livroAtualizado.Reservado.GetValueOrDefault();
 
             _context.SaveChanges();
 
@@ -77,6 +78,33 @@ namespace Acervo.Controllers
             _context.SaveChanges();
 
             return NoContent();
+        }
+
+        [HttpPost("{id}/reservas")]
+        public IActionResult ReservarLivro(Guid id, [FromBody] Reserva reserva)
+        {
+            var livro = _context.Livros.FirstOrDefault(l => l.LivroId == id);
+
+            if (livro == null)
+            {
+                return NotFound("Livro não encontrado.");
+            }
+
+            if (livro.Reservado ?? false)
+            {
+                return BadRequest("O livro já está reservado.");
+            }
+
+            livro.Reservado = true;
+
+            reserva.ReservaId = Guid.NewGuid();
+            reserva.LivroId = livro.LivroId;
+            reserva.DataReserva = DateTime.Now;
+
+            _context.Reservas.Add(reserva);
+            _context.SaveChanges();
+
+            return CreatedAtAction("GetReserva", new { id = reserva.ReservaId }, reserva);
         }
     }
 }
