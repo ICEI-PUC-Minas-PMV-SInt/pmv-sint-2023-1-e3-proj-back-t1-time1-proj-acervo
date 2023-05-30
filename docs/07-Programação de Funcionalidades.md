@@ -57,6 +57,15 @@ Dia 24/05
 ![image](https://github.com/Cristhyam-Augusto/Project-Euler-Algorithm/assets/102738785/f663e109-39a5-4f71-b3d1-b860e822e73c)
 ![image](https://github.com/Cristhyam-Augusto/Project-Euler-Algorithm/assets/102738785/6d475f15-3ebb-424a-898a-85b21c769ae0)
 ![image](https://github.com/Cristhyam-Augusto/Project-Euler-Algorithm/assets/102738785/94b913ce-ccdc-4243-9fdb-eedcd2a6684a)
+
+Dia 30/05
+- Criação do controller para a Reserva dos livros
+- Criação dos métodos http PUT, POST, DELETE e GET para o ReservaController
+- Criação de um novo endpoint put para o UsuarioController, possibilitando alterar o ReservaController
+- Criação de método para o UsuarioController.
+![image](https://github.com/Cristhyam-Augusto/Projeto-David/assets/102738785/bd9d2c87-b81d-45a1-8323-e8550bb4afdc)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/102738785/01c05d31-27c8-4db7-a080-42e75afbaa9e)
+
 ------
 ### Letícia Rose
 03/04 a 15/04
