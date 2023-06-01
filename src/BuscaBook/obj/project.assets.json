@@ -10676,19 +10676,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dudin\\.nuget\\packages\\": {}
+    "C:\\Users\\Kyo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\BuscaBook.csproj",
+      "projectUniqueName": "D:\\ROTINA\\ESTUDOS\\testando\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\BuscaBook.csproj",
       "projectName": "BuscaBook",
-      "projectPath": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\BuscaBook.csproj",
-      "packagesPath": "C:\\Users\\dudin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\obj\\",
+      "projectPath": "D:\\ROTINA\\ESTUDOS\\testando\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\BuscaBook.csproj",
+      "packagesPath": "C:\\Users\\Kyo\\.nuget\\packages\\",
+      "outputPath": "D:\\ROTINA\\ESTUDOS\\testando\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dudin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
