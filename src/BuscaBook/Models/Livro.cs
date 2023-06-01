@@ -7,7 +7,7 @@ namespace BuscaBook.Models
     public class Livro
     {
         [Key]
-        public LivroId { get; set; }
+        public int LivroId { get; set; }
         [Required(ErrorMessage = "Titulo obrigatorio!")]
         public string Titulo { get; set; }
         [Required(ErrorMessage = "Tipo obrigatorio!")]
