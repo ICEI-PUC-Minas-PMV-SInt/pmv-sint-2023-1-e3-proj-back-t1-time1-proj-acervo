@@ -29,7 +29,7 @@ namespace BuscaBook.Controllers
         // GET: Livros/Details/5
         public async Task<IActionResult> Details(Guid? id)
         {
-            if (id == null || _context.Livros == null)
+            if (id == null)
             {
                 return NotFound();
             }
