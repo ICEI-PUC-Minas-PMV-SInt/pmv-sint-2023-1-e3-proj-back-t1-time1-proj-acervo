@@ -55,7 +55,7 @@ namespace BuscaBook.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("LivroId,Titulo,Tipo,Autor,Localizacao,AnoPublicacao,Reservado")] Livro livro)
+        public async Task<IActionResult> Create([Bind("LivroId,Titulo,Tipo,Autor,Localizacao,AnoPublicacao,Reservado, NumeroPaginas")] Livro livro)
         {
             if (ModelState.IsValid)
             {
@@ -88,7 +88,7 @@ namespace BuscaBook.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(Guid id, [Bind("LivroId,Titulo,Tipo,Autor,Localizacao,AnoPublicacao,Reservado")] Livro livro)
+        public async Task<IActionResult> Edit(Guid id, [Bind("LivroId,Titulo,Tipo,Autor,Localizacao,AnoPublicacao,Reservado, NumeroPaginas")] Livro livro)
         {
             if (id != livro.LivroId)
             {
