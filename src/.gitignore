@@ -1,4 +1,6 @@
-.vs 
-.bin
-bin/Debug/net7.0
-*.obj
+.vs
+.angular
+node_modules
+dist
+obj
+bin

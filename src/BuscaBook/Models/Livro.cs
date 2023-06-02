@@ -20,5 +20,6 @@ namespace BuscaBook.Models
         public DateTimeOffset AnoPublicacao { get; set; }
         [Required(ErrorMessage = "Obrigatorio!")]
         public bool? Reservado { get; set; }
+        public int ? NumeroPaginas { get; set; }
     }
 }
