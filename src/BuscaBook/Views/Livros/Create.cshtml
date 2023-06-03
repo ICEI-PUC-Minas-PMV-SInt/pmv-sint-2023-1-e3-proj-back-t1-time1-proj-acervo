@@ -71,18 +71,18 @@
         function reservarLivro() {
             var checkbox = document.getElementById("Reservado");
             var tempoReservaInput = document.getElementById("TempoReserva");
-            
+
             if (checkbox.checked) {
                 tempoReservaInput.value = new Date().toISOString();
             } else {
                 tempoReservaInput.value = "";
             }
         }
-        
+
         function alugarLivro() {
             var checkbox = document.getElementById("Alugado");
             var tempoAluguelInput = document.getElementById("TempoAluguel");
-            
+
             if (checkbox.checked) {
                 tempoAluguelInput.value = new Date().toISOString();
             } else {
