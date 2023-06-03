@@ -40,8 +40,23 @@
             </div>
             <div class="form-group">
                 <label asp-for="Reservado" class="control-label"></label>
-                <input asp-for="Reservado" class="form-control" />
+                <input asp-for="Reservado" class="form-control" onchange="reservarLivro()" />
                 <span asp-validation-for="Reservado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TempoReserva" class="control-label"></label>
+                <input asp-for="TempoReserva" class="form-control" />
+                <span asp-validation-for="TempoReserva" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Alugado" class="control-label"></label>
+                <input asp-for="Alugado" class="form-control" onchange="alugarLivro()" />
+                <span asp-validation-for="Alugado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TempoAluguel" class="control-label"></label>
+                <input asp-for="TempoAluguel" class="form-control" />
+                <span asp-validation-for="TempoAluguel" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
@@ -55,5 +70,33 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        function reservarLivro() {
+            var checkbox = document.getElementById("Reservado");
+            var tempoReservaInput = document.getElementById("TempoReserva");
+
+            javascript
+        Copy code
+            if (checkbox.checked) {
+                tempoReservaInput.value = new Date().toISOString();
+            } else {
+                tempoReservaInput.value = "";
+            }
+        }
+
+        function alugarLivro() {
+            var checkbox = document.getElementById("Alugado");
+            var tempoAluguelInput = document.getElementById("TempoAluguel");
+
+            if (checkbox.checked) {
+                tempoAluguelInput.value = new Date().toISOString();
+            } else {
+                tempoAluguelInput.value = "";
+            }
+        }
+    </script>
+
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BuscaBook.Models;
 
@@ -18,24 +17,67 @@ namespace BuscaBook.Controllers
             _context = context;
         }
 
+        // POST: Livros/Reservar/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Reservar(Guid id)
+        {
+            var livro = await _context.Livros.FindAsync(id);
+            if (livro == null)
+            {
+                return NotFound();
+            }
+
+            livro.Reservado = true;
+            livro.TempoReserva = DateTime.Now.AddDays(1);
+
+            _context.Update(livro);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        // POST: Livros/Alugar/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Alugar(Guid id)
+        {
+            var livro = await _context.Livros.FindAsync(id);
+            if (livro == null)
+            {
+                return NotFound();
+            }
+
+            livro.Alugado = true;
+            livro.TempoAluguel = DateTime.Now.AddDays(7);
+
+            _context.Update(livro);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+        }
+
         // GET: Livros
         public async Task<IActionResult> Index()
         {
-              return _context.Livros != null ? 
-                          View(await _context.Livros.ToListAsync()) :
-                          Problem("Entity set 'ApplicationDbContext.Livros'  is null.");
+            if (_context.Livros == null)
+            {
+                return Problem("Entity set 'ApplicationDbContext.Livros' is null.");
+            }
+
+            var livros = await _context.Livros.ToListAsync();
+            return View(livros);
         }
 
         // GET: Livros/Details/5
         public async Task<IActionResult> Details(Guid? id)
         {
-            if (id == null)
+            if (id == null || _context.Livros == null)
             {
                 return NotFound();
             }
 
-            var livro = await _context.Livros
-                .FirstOrDefaultAsync(m => m.LivroId == id);
+            var livro = await _context.Livros.FirstOrDefaultAsync(m => m.LivroId == id);
             if (livro == null)
             {
                 return NotFound();
@@ -51,20 +93,21 @@ namespace BuscaBook.Controllers
         }
 
         // POST: Livros/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("LivroId,Titulo,Tipo,Autor,Localizacao,AnoPublicacao,Reservado, NumeroPaginas")] Livro livro)
+        public async Task<IActionResult> Create([Bind("LivroId,Titulo,Tipo,Autor,Localizacao,AnoPublicacao,Reservado,TempoReserva,Alugado,TempoAluguel,NumeroPaginas")] Livro livro)
         {
             if (ModelState.IsValid)
             {
                 livro.LivroId = Guid.NewGuid();
+                livro.Reservado = false;
+                livro.Alugado = false;
                 _context.Add(livro);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(livro);
+
+            return View(livro); ;
         }
 
         // GET: Livros/Edit/5
@@ -84,13 +127,11 @@ namespace BuscaBook.Controllers
         }
 
         // POST: Livros/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(Guid id, [Bind("LivroId,Titulo,Tipo,Autor,Localizacao,AnoPublicacao,Reservado, NumeroPaginas")] Livro livro)
+        public async Task<IActionResult> Edit(Guid id, [Bind("LivroId,Titulo,Tipo,Autor,Localizacao,AnoPublicacao,Reservado,TempoReserva,Alugado,TempoAluguel,NumeroPaginas")] Livro livro)
         {
-            if (id != livro.LivroId)
+            if (id != livro.LivroId || _context.Livros == null)
             {
                 return NotFound();
             }
@@ -99,16 +140,20 @@ namespace BuscaBook.Controllers
             {
                 try
                 {
+                    if (livro.Reservado == null)
+                        livro.Reservado = false;
+
+                    if (livro.Alugado == null)
+                        livro.Alugado = false;
+
                     _context.Update(livro);
                     await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
+                } catch (DbUpdateConcurrencyException)
                 {
                     if (!LivroExists(livro.LivroId))
                     {
                         return NotFound();
-                    }
-                    else
+                    } else
                     {
                         throw;
                     }
@@ -117,8 +162,6 @@ namespace BuscaBook.Controllers
             }
             return View(livro);
         }
-
-        // GET: Livros/Delete/5
         public async Task<IActionResult> Delete(Guid? id)
         {
             if (id == null || _context.Livros == null)
@@ -126,8 +169,7 @@ namespace BuscaBook.Controllers
                 return NotFound();
             }
 
-            var livro = await _context.Livros
-                .FirstOrDefaultAsync(m => m.LivroId == id);
+            var livro = await _context.Livros.FirstOrDefaultAsync(m => m.LivroId == id);
             if (livro == null)
             {
                 return NotFound();
@@ -141,23 +183,20 @@ namespace BuscaBook.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(Guid id)
         {
-            if (_context.Livros == null)
-            {
-                return Problem("Entity set 'ApplicationDbContext.Livros'  is null.");
-            }
             var livro = await _context.Livros.FindAsync(id);
-            if (livro != null)
+            if (livro == null)
             {
-                _context.Livros.Remove(livro);
+                return NotFound();
             }
-            
+
+            _context.Livros.Remove(livro);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool LivroExists(Guid id)
         {
-          return (_context.Livros?.Any(e => e.LivroId == id)).GetValueOrDefault();
+            return _context.Livros.Any(e => e.LivroId == id);
         }
     }
 }

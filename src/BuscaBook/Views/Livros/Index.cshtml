@@ -31,37 +31,54 @@
                 @Html.DisplayNameFor(model => model.Reservado)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.NumeroPaginas)
+                @Html.DisplayNameFor(model => model.TempoReserva)
             </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Alugado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TempoAluguel)
+            </th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Titulo)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Tipo)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Autor)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Localizacao)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.AnoPublicacao)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Reservado)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.LivroId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.LivroId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.LivroId">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Titulo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tipo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Autor)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Localizacao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AnoPublicacao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Reservado)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TempoReserva)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Alugado)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TempoAluguel)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.LivroId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.LivroId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.LivroId">Delete</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
