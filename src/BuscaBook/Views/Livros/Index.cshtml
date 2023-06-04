@@ -3,82 +3,90 @@
 @{
     ViewData["Title"] = "Index";
 }
+<div class="row">
+    <div class="col-sm-12">
+        <h1>Catálogo</h1>
+    </div>
+</div>
 
-<h1>Catálogo</h1>
-
-<p>
-    <a asp-action="Create">Adicionar novo livro</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Titulo)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Tipo)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Autor)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Localizacao)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.AnoPublicacao)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Reservado)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.TempoReserva)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Alugado)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.TempoAluguel)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
+<div class="row">
+    <div class="col-sm-12">
+        <table class="table">
+            <thead>
             <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Titulo)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Tipo)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Autor)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Localizacao)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.AnoPublicacao)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Reservado)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.TempoReserva)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Alugado)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.TempoAluguel)
-                </td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.LivroId">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.LivroId">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.LivroId">Delete</a>
-                </td>
+                <th>
+                    @Html.DisplayNameFor(model => model.Titulo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Tipo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Autor)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Localizacao)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AnoPublicacao)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Reservado)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TempoReserva)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Alugado)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TempoAluguel)
+                </th>
+                <th></th>
             </tr>
-        }
-    </tbody>
-</table>
+            </thead>
+            <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Titulo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Tipo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Autor)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Localizacao)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AnoPublicacao)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Reservado)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TempoReserva)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Alugado)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TempoAluguel)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.LivroId" class="btn btn-warning">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.LivroId" class="btn btn-dark">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.LivroId" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+    <div>
+        <a asp-action="Create" class="btn btn-success">Adicionar novo livro</a>
+    </div>
+    
+</div>
