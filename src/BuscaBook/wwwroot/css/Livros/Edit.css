@@ -1,0 +1,13 @@
+﻿.form-control {
+    border-radius: 10px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}

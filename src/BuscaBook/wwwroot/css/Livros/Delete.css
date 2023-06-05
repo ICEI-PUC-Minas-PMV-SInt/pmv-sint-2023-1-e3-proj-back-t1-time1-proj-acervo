@@ -1,0 +1,13 @@
+﻿.row dt {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.row dd {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: blue;
+    color: white;
+}
