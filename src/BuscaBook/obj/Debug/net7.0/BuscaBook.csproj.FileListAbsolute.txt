@@ -829,3 +829,4 @@ C:\Users\Rodri\Source\Repos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\sr
 C:\Users\Rodri\Source\Repos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\BuscaBook\obj\Debug\net7.0\BuscaBook.pdb
 C:\Users\Rodri\Source\Repos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\BuscaBook\obj\Debug\net7.0\BuscaBook.genruntimeconfig.cache
 C:\Users\Rodri\Source\Repos\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\BuscaBook\obj\Debug\net7.0\ref\BuscaBook.dll
+C:\Users\dudin\Backend\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\src\BuscaBook\bin\Debug\net7.0\BCrypt.Net-Next.dll
