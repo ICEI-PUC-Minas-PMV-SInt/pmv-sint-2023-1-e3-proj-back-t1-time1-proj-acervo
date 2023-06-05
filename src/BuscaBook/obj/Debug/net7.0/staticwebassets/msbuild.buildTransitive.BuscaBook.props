@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../buildMultiTargeting/BuscaBook.props" />
+  <Import Project="..\buildMultiTargeting\BuscaBook.props" />
 </Project>

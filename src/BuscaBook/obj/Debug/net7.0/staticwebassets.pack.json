@@ -1,9 +1,28 @@
 {
   "Files": [
     {
-<<<<<<< HEAD
       "Id": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BuscaBook.bundle.scp.css",
       "PackagePath": "staticwebassets\\BuscaBook.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\wwwroot\\.DS_Store",
+      "PackagePath": "staticwebassets\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\wwwroot\\css\\Livros\\Create.css",
+      "PackagePath": "staticwebassets\\css\\Livros\\Create.css"
+    },
+    {
+      "Id": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\wwwroot\\css\\Livros\\Delete.css",
+      "PackagePath": "staticwebassets\\css\\Livros\\Delete.css"
+    },
+    {
+      "Id": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\wwwroot\\css\\Livros\\Edit.css",
+      "PackagePath": "staticwebassets\\css\\Livros\\Edit.css"
+    },
+    {
+      "Id": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
       "Id": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\wwwroot\\css\\site.css",
@@ -12,6 +31,10 @@
     {
       "Id": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\wwwroot\\img\\pic-home.svg",
+      "PackagePath": "staticwebassets\\img\\pic-home.svg"
     },
     {
       "Id": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\wwwroot\\js\\site.js",
@@ -244,277 +267,21 @@
     {
       "Id": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-=======
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/obj/Debug/net7.0/scopedcss/projectbundle/BuscaBook.bundle.scp.css",
-      "PackagePath": "staticwebassets/BuscaBook.bundle.scp.css"
     },
     {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/.DS_Store",
-      "PackagePath": "staticwebassets/.DS_Store"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/css/home.css",
-      "PackagePath": "staticwebassets/css/home.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/favicon.ico",
-      "PackagePath": "staticwebassets/favicon.ico"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/img/pic-home.svg",
-      "PackagePath": "staticwebassets/img/pic-home.svg"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/js/site.js",
-      "PackagePath": "staticwebassets/js/site.js"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/LICENSE",
-      "PackagePath": "staticwebassets/lib/bootstrap"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/jquery-validation/LICENSE.md",
-      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/jquery-validation/dist/additional-methods.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/jquery/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
->>>>>>> 00bcda9e62861c4ca58078d418ab604eb05da9ca
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/jquery/dist/jquery.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/jquery/dist/jquery.min.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
-    },
-    {
-      "Id": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/wwwroot/lib/jquery/dist/jquery.min.map",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
-    },
-    {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.BuscaBook.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BuscaBook.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.BuscaBook.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BuscaBook.props",
       "PackagePath": "build\\BuscaBook.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BuscaBook.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BuscaBook.props",
       "PackagePath": "buildMultiTargeting\\BuscaBook.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BuscaBook.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BuscaBook.props",
       "PackagePath": "buildTransitive\\BuscaBook.props"
     }
   ],
