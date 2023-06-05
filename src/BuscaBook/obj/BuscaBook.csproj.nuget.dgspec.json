@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\BuscaBook.csproj": {}
   },
   "projects": {
@@ -16,12 +17,31 @@
         "configFilePaths": [
           "C:\\Users\\dudin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+    "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/BuscaBook.csproj": {}
+  },
+  "projects": {
+    "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/BuscaBook.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/BuscaBook.csproj",
+        "projectName": "BuscaBook",
+        "projectPath": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/BuscaBook.csproj",
+        "packagesPath": "/Users/luanabaratta/.nuget/packages/",
+        "outputPath": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/luanabaratta/.nuget/NuGet/NuGet.Config"
+>>>>>>> 00bcda9e62861c4ca58078d418ab604eb05da9ca
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+<<<<<<< HEAD
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+=======
+>>>>>>> 00bcda9e62861c4ca58078d418ab604eb05da9ca
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,25 +66,25 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[8.0.0-preview.4.23259.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[8.0.0-preview.4.23259.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer.Design": {
               "target": "Package",
-              "version": "[1.1.6, )"
+              "version": "[2.0.0-preview1-final, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[8.0.0-preview.4.23259.3, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[7.0.6, )"
+              "version": "[8.0.0-preview.4.23261.6, )"
             }
           },
           "imports": [
@@ -86,7 +106,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+>>>>>>> 00bcda9e62861c4ca58078d418ab604eb05da9ca
         }
       }
     }
