@@ -80,6 +80,19 @@ Dia 30/05
 <img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/main/docs/img/Evid%C3%AAncias%20-%20Let%C3%ADcia%20Lopes/Entregas%20-%20Etapa%202/3-%20View%20de%20cadastro%20dos%20livros(Let%C3%ADcia).png" width="500" heigth="300"/>
 <img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/main/docs/img/Evid%C3%AAncias%20-%20Let%C3%ADcia%20Lopes/Entregas%20-%20Etapa%202/4-%20Tela%20de%20cadastro%20dos%20livros%20(Let%C3%ADcia).png" width="500" heigth="300"/>
 
+03/05 a 02/06
+- Estudo dos microfundamentos requeridos para a etapa 3.
+
+03/06 a 04/06
+- Ajustes na no forma da view de Adição dos livros (Create) e link do Css:
+<img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/main/docs/img/Evid%C3%AAncias%20-%20Let%C3%ADcia%20Lopes/Entregas%20-%20Etapa%203/Link%20do%20Css%20e%20Alteracao%20do%20form%20de%20create.png" width="500" heigth="300"/>
+
+-Criação do CSS das views Create e Edit
+<img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/main/docs/img/Evid%C3%AAncias%20-%20Let%C3%ADcia%20Lopes/Entregas%20-%20Etapa%203/Css%20da%20view%20Create.png" width="500" heigth="300"/>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/main/docs/img/Evid%C3%AAncias%20-%20Let%C3%ADcia%20Lopes/Entregas%20-%20Etapa%203/Css%20da%20view%20Edit.png" width="500" heigth="300"/>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/main/docs/img/Evid%C3%AAncias%20-%20Let%C3%ADcia%20Lopes/Entregas%20-%20Etapa%203/Link%20do%20Css%20na%20view%20edit.png" width="500" heigth="300"/>
+
+
 ### Marcia Carvalho
 03/04 a  17/04
 -  Estudo dos Microfundamentos da etapa 2;

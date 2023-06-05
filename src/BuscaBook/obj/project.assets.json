@@ -46,6 +46,19 @@
           }
         }
       },
+<<<<<<< HEAD
+      "BCrypt.Net-Next/4.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/BCrypt.Net-Next.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/BCrypt.Net-Next.dll": {
+            "related": ".xml"
+          }
+=======
       "Humanizer/2.14.1": {
         "type": "package",
         "dependencies": {
@@ -97,6 +110,7 @@
           "Humanizer.Core.zh-CN": "2.14.1",
           "Humanizer.Core.zh-Hans": "2.14.1",
           "Humanizer.Core.zh-Hant": "2.14.1"
+>>>>>>> 00bcda9e62861c4ca58078d418ab604eb05da9ca
         }
       },
       "Humanizer.Core/2.14.1": {
@@ -2816,6 +2830,37 @@
         "lib/netstandard2.0/Azure.Identity.xml"
       ]
     },
+<<<<<<< HEAD
+    "BCrypt.Net-Next/4.0.3": {
+      "sha512": "W+U9WvmZQgi5cX6FS5GDtDoPzUCV4LkBLkywq/kRZhuDwcbavOzcDAr3LXJFqHUi952Yj3LEYoWW0jbEUQChsA==",
+      "type": "package",
+      "path": "bcrypt.net-next/4.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bcrypt.net-next.4.0.3.nupkg.sha512",
+        "bcrypt.net-next.nuspec",
+        "ico.png",
+        "lib/net20/BCrypt.Net-Next.dll",
+        "lib/net20/BCrypt.Net-Next.xml",
+        "lib/net35/BCrypt.Net-Next.dll",
+        "lib/net35/BCrypt.Net-Next.xml",
+        "lib/net462/BCrypt.Net-Next.dll",
+        "lib/net462/BCrypt.Net-Next.xml",
+        "lib/net472/BCrypt.Net-Next.dll",
+        "lib/net472/BCrypt.Net-Next.xml",
+        "lib/net48/BCrypt.Net-Next.dll",
+        "lib/net48/BCrypt.Net-Next.xml",
+        "lib/net5.0/BCrypt.Net-Next.dll",
+        "lib/net5.0/BCrypt.Net-Next.xml",
+        "lib/net6.0/BCrypt.Net-Next.dll",
+        "lib/net6.0/BCrypt.Net-Next.xml",
+        "lib/netstandard2.0/BCrypt.Net-Next.dll",
+        "lib/netstandard2.0/BCrypt.Net-Next.xml",
+        "lib/netstandard2.1/BCrypt.Net-Next.dll",
+        "lib/netstandard2.1/BCrypt.Net-Next.xml",
+        "readme.md"
+=======
     "Humanizer/2.14.1": {
       "sha512": "/FUTD3cEceAAmJSCPN9+J+VhGwmL/C12jvwlyM1DFXShEMsBzvLzLqSrJ2rb+k/W2znKw7JyflZgZpyE+tI7lA==",
       "type": "package",
@@ -2826,6 +2871,7 @@
         "humanizer.2.14.1.nupkg.sha512",
         "humanizer.nuspec",
         "logo.png"
+>>>>>>> 00bcda9e62861c4ca58078d418ab604eb05da9ca
       ]
     },
     "Humanizer.Core/2.14.1": {
@@ -7335,6 +7381,18 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+<<<<<<< HEAD
+      "BCrypt.Net-Next >= 4.0.3",
+      "Microsoft.EntityFrameworkCore >= 7.0.5",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5",
+      "Microsoft.EntityFrameworkCore.SqlServer.Design >= 1.1.6",
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.5",
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.6"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dudin\\.nuget\\packages\\": {}
+=======
       "Microsoft.EntityFrameworkCore >= 8.0.0-preview.4.23259.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0-preview.4.23259.3",
       "Microsoft.EntityFrameworkCore.SqlServer.Design >= 2.0.0-preview1-final",
@@ -7344,10 +7402,22 @@
   },
   "packageFolders": {
     "/Users/luanabaratta/.nuget/packages/": {}
+>>>>>>> 00bcda9e62861c4ca58078d418ab604eb05da9ca
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\BuscaBook.csproj",
+      "projectName": "BuscaBook",
+      "projectPath": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\BuscaBook.csproj",
+      "packagesPath": "C:\\Users\\dudin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dudin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
       "projectUniqueName": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/BuscaBook.csproj",
       "projectName": "BuscaBook",
       "projectPath": "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/BuscaBook.csproj",
@@ -7356,11 +7426,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/luanabaratta/.nuget/NuGet/NuGet.Config"
+>>>>>>> 00bcda9e62861c4ca58078d418ab604eb05da9ca
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+<<<<<<< HEAD
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+=======
+>>>>>>> 00bcda9e62861c4ca58078d418ab604eb05da9ca
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7379,6 +7454,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "BCrypt.Net-Next": {
+            "target": "Package",
+            "version": "[4.0.3, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.0-preview.4.23259.3, )"
@@ -7421,7 +7500,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+=======
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+>>>>>>> 00bcda9e62861c4ca58078d418ab604eb05da9ca
       }
     }
   }

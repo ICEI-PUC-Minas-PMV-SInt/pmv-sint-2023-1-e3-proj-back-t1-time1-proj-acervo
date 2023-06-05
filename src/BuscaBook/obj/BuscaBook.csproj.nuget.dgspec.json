@@ -1,6 +1,23 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\BuscaBook.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\BuscaBook.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\BuscaBook.csproj",
+        "projectName": "BuscaBook",
+        "projectPath": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\BuscaBook.csproj",
+        "packagesPath": "C:\\Users\\dudin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dudin\\Backend\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dudin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
     "/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/BuscaBook.csproj": {}
   },
   "projects": {
@@ -15,11 +32,16 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/luanabaratta/.nuget/NuGet/NuGet.Config"
+>>>>>>> 00bcda9e62861c4ca58078d418ab604eb05da9ca
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+<<<<<<< HEAD
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+=======
+>>>>>>> 00bcda9e62861c4ca58078d418ab604eb05da9ca
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +60,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0-preview.4.23259.3, )"
@@ -80,7 +106,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+=======
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+>>>>>>> 00bcda9e62861c4ca58078d418ab604eb05da9ca
         }
       }
     }

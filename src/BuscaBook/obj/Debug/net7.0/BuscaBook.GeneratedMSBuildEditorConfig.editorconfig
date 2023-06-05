@@ -52,8 +52,41 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
+[C:/Users/dudin/Backend/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/Views/Usuarios/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudin/Backend/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudin/Backend/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudin/Backend/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudin/Backend/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudin/Backend/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudin/Backend/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/Views/Usuarios/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dudin/Backend/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+=======
 [/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+>>>>>>> 00bcda9e62861c4ca58078d418ab604eb05da9ca
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/luanabaratta/Desktop/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/src/BuscaBook/Views/Shared/_Layout.cshtml]
