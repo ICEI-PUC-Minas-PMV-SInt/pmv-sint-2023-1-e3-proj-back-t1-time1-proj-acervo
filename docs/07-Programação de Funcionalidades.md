@@ -101,6 +101,15 @@ Dia 30/05
 -  Instalei .NET 5.0 e tive problemas de configurações, observei que quando o professor Kleber instalou o .NET 5.0 ele era o "atual" e ao instalar na minha máquina já estava sem 
    suporte e não consegui rodar o projeto. Precisei instalar o .NET 6.0 e fiquei sem referência para seguir o MF, pois o 5.0 tem Razor e Startup e o 6.0 não tem.
  
+ ![img 2](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/102733574/8b0117c6-fb5e-4fba-83c2-045b36e97894)
+
+![img 3](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/102733574/664614b1-a22b-4a43-b7cd-bcc7c0111af2)
+
+![img 4](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/102733574/da1662af-3c4d-45b7-820e-1464945090a5)
+
+![img 5](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/102733574/de2e1906-4c5d-47e7-a5a2-a39f790f6e7b)
+
+![img 6](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/102733574/8df9fcab-d6ac-4403-acef-7365a4002f3e)
  
  
  
