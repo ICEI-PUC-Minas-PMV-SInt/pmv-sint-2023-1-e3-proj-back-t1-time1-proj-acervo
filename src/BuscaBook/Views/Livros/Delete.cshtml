@@ -7,69 +7,106 @@
 <h1>Delete</h1>
 
 <h3>Are you sure you want to delete this?</h3>
-<div>
+
+<form id="deleteForm" asp-action="Delete">
+</form>
+<button id="deleteButton" class="btn btn-danger">Delete</button>
+
+<!--<div>
     <h4>Livro</h4>
     <hr />
     <dl class="row">
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Titulo)
+@Html.DisplayNameFor(model => model.Titulo)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Titulo)
+@Html.DisplayFor(model => model.Titulo)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Tipo)
+@Html.DisplayNameFor(model => model.Tipo)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Tipo)
+@Html.DisplayFor(model => model.Tipo)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Autor)
+@Html.DisplayNameFor(model => model.Autor)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Autor)
+@Html.DisplayFor(model => model.Autor)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Localizacao)
+@Html.DisplayNameFor(model => model.Localizacao)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Localizacao)
+@Html.DisplayFor(model => model.Localizacao)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.AnoPublicacao)
+@Html.DisplayNameFor(model => model.AnoPublicacao)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.AnoPublicacao)
+@Html.DisplayFor(model => model.AnoPublicacao)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Reservado)
+@Html.DisplayNameFor(model => model.Reservado)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Reservado)
+@Html.DisplayFor(model => model.Reservado)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.TempoReserva)
+@Html.DisplayNameFor(model => model.TempoReserva)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.TempoReserva)
+@Html.DisplayFor(model => model.TempoReserva)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Alugado)
+@Html.DisplayNameFor(model => model.Alugado)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Alugado)
+@Html.DisplayFor(model => model.Alugado)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.TempoAluguel)
+@Html.DisplayNameFor(model => model.TempoAluguel)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.TempoAluguel)
+@Html.DisplayFor(model => model.TempoAluguel)
         </dd>
-    </dl>
+    </dl> -->
+<div id="deleteModal" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Confirm Delete</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Are you sure you want to delete this?</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+                <button id="confirmDeleteButton" type="button" class="btn btn-danger">Delete</button>
+            </div>
+        </div>
+    </div>
+</div>
 
-    <form asp-action="Delete">
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            $('#deleteButton').on('click', function () {
+                $('#deleteModal').modal('show');
+            });
+
+            $('#confirmDeleteButton').on('click', function () {
+                $('#deleteForm').submit();
+            });
+        });
+    </script>
+    }
+<!--<form asp-action="Delete">
         <input type="hidden" asp-for="LivroId" />
         <input type="submit" value="Delete" class="btn btn-danger" /> |
         <a asp-action="Index">Back to List</a>
-    </form>
+</form>-->
 </div>
