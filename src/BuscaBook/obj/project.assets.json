@@ -11444,19 +11444,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Maria Almeida.LAPTOP-NDHN95VR\\.nuget\\packages\\": {}
+    "C:\\Users\\Marcia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maria Almeida.LAPTOP-NDHN95VR\\Source\\Repos\\ICEI-PUC-Minas-PMV-SInt\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\BuscaBook.csproj",
+      "projectUniqueName": "C:\\Users\\Marcia\\Desktop\\Projeto Acervo clone 08062023 parte 2\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\BuscaBook.csproj",
       "projectName": "BuscaBook",
-      "projectPath": "C:\\Users\\Maria Almeida.LAPTOP-NDHN95VR\\Source\\Repos\\ICEI-PUC-Minas-PMV-SInt\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\BuscaBook.csproj",
-      "packagesPath": "C:\\Users\\Maria Almeida.LAPTOP-NDHN95VR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maria Almeida.LAPTOP-NDHN95VR\\Source\\Repos\\ICEI-PUC-Minas-PMV-SInt\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\obj\\",
+      "projectPath": "C:\\Users\\Marcia\\Desktop\\Projeto Acervo clone 08062023 parte 2\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\BuscaBook.csproj",
+      "packagesPath": "C:\\Users\\Marcia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Marcia\\Desktop\\Projeto Acervo clone 08062023 parte 2\\pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo\\src\\BuscaBook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Maria Almeida.LAPTOP-NDHN95VR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11528,7 +11528,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
