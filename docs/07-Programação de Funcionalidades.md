@@ -94,10 +94,11 @@ Dia 30/05
 
 
 ### Marcia Carvalho
-03/04 a  17/04
--  Estudo dos Microfundamentos da etapa 2;
--  Criação da Tela de Login e  acesso ao banco de dados (em andamento).
+03/04 a 30/04
+-  Estudo dos Microfundamentos da etapa 3.
+
 01/05 a 04/06
+-  Criação da Tela de Login e  acesso ao banco de dados (em andamento).
 -  Instalei .NET 5.0 e tive problemas de configurações, observei que quando o professor Kleber instalou o .NET 5.0 ele era o "atual" e ao instalar na minha máquina já estava sem 
    suporte e não consegui rodar o projeto. Precisei instalar o .NET 6.0 e fiquei sem referência para seguir o MF, pois o 5.0 tem Razor e Startup e o 6.0 não tem.
  
