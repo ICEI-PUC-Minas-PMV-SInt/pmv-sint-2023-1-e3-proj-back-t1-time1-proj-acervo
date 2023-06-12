@@ -147,10 +147,15 @@
     }
 
     .home-content-container {
-        padding: 100px 20px 100px 20px;
+        padding: 100px 20px 100px 100px;
         align-items: flex-start;
         text-align: left;
         align-content: space-between;
         flex-flow: wrap;
+    }
+
+    td:last-child {
+        width: 250px;
+        text-align: center;
     }
 }
