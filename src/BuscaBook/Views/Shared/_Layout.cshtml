@@ -19,29 +19,29 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex">
-                    <ul class=" navbar-nav flex-grow-1 text-uppercase font-weight-bold justify-content-center">
-                        <li class="nav-item font-weight-bold">
-                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                    <ul class="navbar-nav offset-md-2 mainMenu">
+                        <li>
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">HOME</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-light font-weight-bold" asp-area="" asp-controller="Livros" asp-action="Index">Catálogo de Livros</a>
+                        <li>
+                            <a class="nav-link text-light font-weight-bold" asp-area="" asp-controller="Livros" asp-action="Index">CATÁLOGO</a>
                         </li>
                         @if (User.Identity.IsAuthenticated)
                         {
-                            <li class="nav-item">
-                                <a class="nav-link text-light" asp-area="" asp-controller="Usuarios" asp-action="Index">Usuarios</a>
+                            <li>
+                                <a class="nav-link text-light" asp-area="" asp-controller="Usuarios" asp-action="Index">USUÁRIOS</a>
                             </li>
                         }
 
-                        <li class="nav-item">
-                            <a class="nav-link text-light" asp-area="" asp-controller="Usuarios" asp-action="Login">admin</a>
+                        <li>
+                            <a class="nav-link text-light" asp-area="" asp-controller="Usuarios" asp-action="Login">ADMIN</a>
                         </li>
 
                     </ul>
                     <ul class="navbar-nav">
                         @if(User.Identity.IsAuthenticated)
                         {
-                            <li class="nav-item">
+                            <li>
                                 Olá, @User.Identity.Name <a class="nav-link text-light" asp-area="" asp-controller="Usuarios" asp-action="Logout">Sair</a>
                             </li>
                             
