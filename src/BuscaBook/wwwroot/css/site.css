@@ -1,32 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
-*,
-*:before,
-*:after {
-  box-sizing: inherit;
-}
-a {
-  text-decoration: none;
+* {
+    font-family: "Inter", sans-serif;
 }
 
-ol,
-ul {
-  list-style: none;
-}
-
-body,
 h1,
 h2,
 h3,
 h4,
 h5,
-h6,
-p,
-ol,
-ul {
-  margin: 0;
-  padding: 0;
-  font-family: "Inter", sans-serif;
+h6 {
+    margin-bottom: 0;
+    font-weight: 700;
 }
+
+ul {
+    list-style-type: none;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
 
 h1 {
   margin: 1rem 0;
@@ -53,4 +50,20 @@ html {
 body {
   margin-bottom: 60px;
   background-color: #f2f2f2;
+}
+
+.mainMenu {
+    display: flex;
+    font-size: 18px;
+    width: 380px;
+    justify-content: space-between;
+}
+
+.mainMenu a {
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: bold;
+}
+
+.mainMenu a:hover {
+    color: #fff;
 }
