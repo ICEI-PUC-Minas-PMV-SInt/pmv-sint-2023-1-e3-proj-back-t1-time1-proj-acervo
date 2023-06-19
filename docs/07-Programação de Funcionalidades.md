@@ -120,6 +120,10 @@ Dia 30/05
 - Criação do diagrama ER e correção do mesmo.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/101745127/277b6258-275d-4289-8750-aad79372f802).
 
+04/06 a 18/06
+- Início das páginas de EDIT e de DELETE.
+- Criação da janela modal 
+![WhatsApp Image 2023-06-19 at 09 09 24](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/101745127/4ea1049a-c2c6-4da0-94b5-783e4282c2f1)
 
-- Inicio das páginas de EDIT e de Cadastro.
+![WhatsApp Image 2023-06-19 at 09 11 44](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/101745127/ca797429-372e-49d7-9b43-fd486bca31a8)
 
