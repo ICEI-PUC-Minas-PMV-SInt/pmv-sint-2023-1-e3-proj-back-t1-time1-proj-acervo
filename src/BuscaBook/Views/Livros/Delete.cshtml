@@ -4,17 +4,9 @@
     ViewData["Title"] = "Delete";
 }
 
-
-
 <h3>Tem certeza que deseja apagar o livro @Model.Titulo?</h3>
 
-<form id="deleteForm" asp-action="Delete">
-</form>
-<br/>
-<button id="deleteButton" class="btn btn-danger">Apagar</button>
-
-<!--<div>
-    <h4>Livro</h4>
+<div>
     <hr />
     <dl class="row">
         <dt class="col-sm-2">
@@ -71,43 +63,11 @@
         <dd class="col-sm-10">
 @Html.DisplayFor(model => model.TempoAluguel)
         </dd>
-    </dl> -->
-<div id="deleteModal" class="modal fade" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title">Apagar livro do Catálogo</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body @Model.Titulo">
-                <p>Tem certeza?</p>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
-                <button id="confirmDeleteButton" type="button" class="btn btn-danger">Apagar</button>
-            </div>
-        </div>
-    </div>
-</div>
+    </dl> 
 
-@section scripts {
-    <script>
-        $(document).ready(function () {
-            $('#deleteButton').on('click', function () {
-                $('#deleteModal').modal('show');
-            });
-
-            $('#confirmDeleteButton').on('click', function () {
-                $('#deleteForm').submit();
-            });
-        });
-    </script>
-    }
-<!--<form asp-action="Delete">
+<form asp-action="Delete">
         <input type="hidden" asp-for="LivroId" />
         <input type="submit" value="Delete" class="btn btn-danger" /> |
         <a asp-action="Index">Back to List</a>
-</form>-->
+</form>
 </div>
