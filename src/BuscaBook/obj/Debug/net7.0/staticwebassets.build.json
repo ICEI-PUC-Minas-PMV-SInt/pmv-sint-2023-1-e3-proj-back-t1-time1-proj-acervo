@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VTOhfzN6CwP5bQ9nzUB0HqnEUP6nSDxpIcK+/X3zhFM=",
+  "Hash": "tq/Jfc82aTq6LKjh/an86KH8Px/Pqh64OeCBEUVR3hU=",
   "Source": "BuscaBook",
   "BasePath": "_content/BuscaBook",
   "Mode": "Default",
@@ -187,23 +187,6 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\dudin\\Backend\\src\\BuscaBook\\wwwroot\\img\\Icon.png",
-      "SourceId": "BuscaBook",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dudin\\Backend\\src\\BuscaBook\\wwwroot\\",
-      "BasePath": "_content/BuscaBook",
-      "RelativePath": "img/Icon.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Icon.png"
-    },
-    {
       "Identity": "C:\\Users\\dudin\\Backend\\src\\BuscaBook\\wwwroot\\img\\logo.png",
       "SourceId": "BuscaBook",
       "SourceType": "Discovered",
@@ -219,23 +202,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
-    },
-    {
-      "Identity": "C:\\Users\\dudin\\Backend\\src\\BuscaBook\\wwwroot\\img\\logoBB.png",
-      "SourceId": "BuscaBook",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dudin\\Backend\\src\\BuscaBook\\wwwroot\\",
-      "BasePath": "_content/BuscaBook",
-      "RelativePath": "img/logoBB.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\logoBB.png"
     },
     {
       "Identity": "C:\\Users\\dudin\\Backend\\src\\BuscaBook\\wwwroot\\img\\password.png",

@@ -9,95 +9,47 @@
     </div>
 </div>
 
-<div class="row">
-    <div class="col-sm-12">
-        <table class="table text-nowrap ">
-            <thead>
-                <tr>
-                    <th>
-                        @Html.DisplayNameFor(model => model.Titulo)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.Tipo)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.Autor)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.Localizacao)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.AnoPublicacao)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.Reservado)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.TempoReserva)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.Alugado)
-                    </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.TempoAluguel)
-                    </th>
-                    <th></th>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var item in Model)
-                {
-                    <tr>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Titulo)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Tipo)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Autor)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Localizacao)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.AnoPublicacao)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Reservado)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.TempoReserva)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Alugado)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.TempoAluguel)
-                        </td>
-                        @if (User.Identity.IsAuthenticated)
-                        {
-                            <td>
-                                <a asp-action="Edit" asp-route-id="@item.LivroId" class="btn btn-warning">Editar</a>
-                                <a asp-action="Details" asp-route-id="@item.LivroId" class="btn btn-dark">Detalhes</a>
-                                <a asp-action="Delete" asp-route-id="@item.LivroId" class="btn btn-danger">Apagar</a>
-                            </td>
-                        }
-                        @if (!User.Identity.IsAuthenticated)
-                        {
-                            <td>
-                                <a asp-action="Details" asp-route-id="@item.LivroId" class="btn btn-dark">Detalhes</a>
-                            </td>
-                        }
-                    </tr>
-                }
-            </tbody>
-        </table>
+@if (User.Identity.IsAuthenticated)
+{
+    <div class="mb-2">
+        <a asp-action="Create" class="btn btn-success">Adicionar novo livro</a>
     </div>
-    @if (User.Identity.IsAuthenticated)
-    {
-        <div>
-            <a asp-action="Create" class="btn btn-success">Adicionar novo livro</a>
-        </div>
-    }
+}
+
+
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-4 me-2 card">
+                <div class="card-body">
+                    <h5 class="card-title">@Html.DisplayFor(modelItem => item.Titulo)</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">@Html.DisplayFor(modelItem => item.Autor)</h6>
+                    <span>Tipo: @Html.DisplayFor(modelItem => item.Tipo)</span> <br>
+                    <span>Localização: @Html.DisplayFor(modelItem => item.Localizacao)</span> <br>
+                    <span>Publicado em: @Html.DisplayFor(modelItem => item.AnoPublicacao)</span> <br>
+                    <span>Reservado: @Html.DisplayFor(modelItem => item.Reservado)</span> <br>
+                    <span>Alugado: @Html.DisplayFor(modelItem => item.Alugado)</span> <br>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <div class="mt-4">
+                            <a asp-action="Edit" asp-route-id="@item.LivroId" class="btn btn-warning">Editar</a>
+                            <a asp-action="Details" asp-route-id="@item.LivroId" class="btn btn-dark">Detalhes</a>
+                            <a asp-action="Delete" asp-route-id="@item.LivroId" class="btn btn-danger">Apagar</a>
+                        </div>
+                    }
+                    @if (!User.Identity.IsAuthenticated)
+                    {
+                        <a asp-action="Details" asp-route-id="@item.LivroId" class="btn btn-dark mt-4">Detalhes</a>
+                    }
+                </div>
+            </div>
+        }
+    </div>
 </div>
+
+
+
+
+

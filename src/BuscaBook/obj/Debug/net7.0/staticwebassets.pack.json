@@ -37,16 +37,8 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\dudin\\Backend\\src\\BuscaBook\\wwwroot\\img\\Icon.png",
-      "PackagePath": "staticwebassets\\img\\Icon.png"
-    },
-    {
       "Id": "C:\\Users\\dudin\\Backend\\src\\BuscaBook\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
-    },
-    {
-      "Id": "C:\\Users\\dudin\\Backend\\src\\BuscaBook\\wwwroot\\img\\logoBB.png",
-      "PackagePath": "staticwebassets\\img\\logoBB.png"
     },
     {
       "Id": "C:\\Users\\dudin\\Backend\\src\\BuscaBook\\wwwroot\\img\\password.png",
