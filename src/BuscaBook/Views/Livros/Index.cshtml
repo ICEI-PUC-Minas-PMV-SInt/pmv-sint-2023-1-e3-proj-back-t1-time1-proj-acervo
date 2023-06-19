@@ -11,82 +11,93 @@
 
 <div class="row">
     <div class="col-sm-12">
-        <table class="table">
+        <table class="table text-nowrap ">
             <thead>
-            <tr>
-                <th>
-                    @Html.DisplayNameFor(model => model.Titulo)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.Tipo)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.Autor)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.Localizacao)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.AnoPublicacao)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.Reservado)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.TempoReserva)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.Alugado)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.TempoAluguel)
-                </th>
-                <th></th>
-            </tr>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Titulo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Tipo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Autor)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Localizacao)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.AnoPublicacao)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Reservado)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TempoReserva)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Alugado)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TempoAluguel)
+                    </th>
+                    <th></th>
+                </tr>
             </thead>
             <tbody>
-            @foreach (var item in Model)
-            {
-                <tr>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Titulo)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Tipo)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Autor)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Localizacao)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.AnoPublicacao)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Reservado)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.TempoReserva)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Alugado)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.TempoAluguel)
-                    </td>
-                    <td>
-                        <a asp-action="Edit" asp-route-id="@item.LivroId" class="btn btn-warning">Editar</a>
-                        <a asp-action="Details" asp-route-id="@item.LivroId" class="btn btn-dark">Detalhes</a>
-                        <a asp-action="Delete" asp-route-id="@item.LivroId" class="btn btn-danger">Apagar</a>
-                    </td>
-                </tr>
-            }
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Titulo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Tipo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Autor)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Localizacao)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.AnoPublicacao)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Reservado)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TempoReserva)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Alugado)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TempoAluguel)
+                        </td>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@item.LivroId" class="btn btn-warning">Editar</a>
+                                <a asp-action="Details" asp-route-id="@item.LivroId" class="btn btn-dark">Detalhes</a>
+                                <a asp-action="Delete" asp-route-id="@item.LivroId" class="btn btn-danger">Apagar</a>
+                            </td>
+                        }
+                        @if (!User.Identity.IsAuthenticated)
+                        {
+                            <td>
+                                <a asp-action="Details" asp-route-id="@item.LivroId" class="btn btn-dark">Detalhes</a>
+                            </td>
+                        }
+                    </tr>
+                }
             </tbody>
         </table>
     </div>
-    <div>
-        <a asp-action="Create" class="btn btn-success">Adicionar novo livro</a>
-    </div>
-    
+    @if (User.Identity.IsAuthenticated)
+    {
+        <div>
+            <a asp-action="Create" class="btn btn-success">Adicionar novo livro</a>
+        </div>
+    }
 </div>

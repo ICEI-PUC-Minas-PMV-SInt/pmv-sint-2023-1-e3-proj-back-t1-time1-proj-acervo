@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\BuscaBook",
+    "\\src\\BuscaBook\\Controllers"
   ],
-  "SelectedNode": "\\BuscaBook.sln",
+  "SelectedNode": "\\src\\BuscaBook\\Controllers\\LivrosController.cs",
   "PreviewInSolutionExplorer": false
 }
