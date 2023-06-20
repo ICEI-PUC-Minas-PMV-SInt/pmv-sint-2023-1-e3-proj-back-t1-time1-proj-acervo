@@ -33,7 +33,9 @@ maio-jun/2023
 - Front pg Login
 - Ajustes pg de CRUD
 <img width="660" src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/68722599/3e0aaaa6-7f0f-4966-badb-7584cf1d9817">
-<img width="660" src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/68722599/13fd89df-2e3c-4a70-ae81-4565474522ab">
+<img width="660" src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/68722599/a12605bb-5492-4f10-ae45-0ab253117eec">
+  
+
 
 
 
