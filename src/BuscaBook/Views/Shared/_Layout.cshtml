@@ -30,14 +30,13 @@
                         @if (User.Identity.IsAuthenticated)
                         {
                             <li>
-                                <a class="nav-link text-light" asp-area="" asp-controller="Usuarios" asp-action="Index">USUÁRIOS</a>
+                                <a class="nav-link text-light" asp-area="" asp-controller="Usuarios" asp-action="Index">CADASTRO DE ADMIN</a>
+                            </li>
+                        } else {
+                            <li>
+                                <a class="nav-link text-light" asp-area="" asp-controller="Usuarios" asp-action="Login">ADMIN</a>
                             </li>
                         }
-
-                        <li>
-                            <a class="nav-link text-light" asp-area="" asp-controller="Usuarios" asp-action="Login">ADMIN</a>
-                        </li>
-
                     </ul>
                     
                 </div>
