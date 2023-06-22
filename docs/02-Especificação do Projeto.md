@@ -36,7 +36,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deve permitir o cadastro, consulta, atualização e exclusão dos livros por parte do administrador. |ALTA|
+|RF-001| O sistema deve permitir o login, cadastro, consulta, atualização e exclusão dos livros por parte do administrador. |ALTA|
 |RF-002| O sistema deve permitir o registro de livros incluindo informações como título, autor, editora, ano de publicação, número de páginas apenas pelo administrador do sistema. |ALTA| 
 |RF-003| O sistema deve validar se todos so campos estão devidamente preenchidos por parte do admistrador na hora de cadastrar ou atualizar informações de livros na base dados da aplicação |ALTA|
 |RF-004| O sistema deve restringir que apenas o administrador consiga fazer alterações na base de dados (inclusão, alteração, remoção) da aplicação |ALTA|
