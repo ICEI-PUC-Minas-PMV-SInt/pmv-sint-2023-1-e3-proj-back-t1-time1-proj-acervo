@@ -136,3 +136,6 @@ Dia 30/05
 
 ![WhatsApp Image 2023-06-19 at 09 11 44](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/101745127/ca797429-372e-49d7-9b43-fd486bca31a8)
 
+22/06
+- Realização do Plano de testes e do Registro do plano de testes.
+
