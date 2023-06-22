@@ -127,6 +127,8 @@ Dia 30/05
 03/04 a 04/06
 - Estudo dos microfundamentos das etapas 1, 2 e 3.
 - Criação do diagrama ER e correção do mesmo.
+
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/101745127/277b6258-275d-4289-8750-aad79372f802).
 
 04/06 a 18/06
