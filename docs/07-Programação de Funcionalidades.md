@@ -75,6 +75,10 @@ Dia 30/05
 ![image](https://github.com/Cristhyam-Augusto/Projeto-David/assets/102738785/bd9d2c87-b81d-45a1-8323-e8550bb4afdc)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/102738785/01c05d31-27c8-4db7-a080-42e75afbaa9e)
 
+Dia 23/06
+- Criação do video de apresentação
+- Finalização da apresentação do projeto no github
+
 ------
 ### Letícia Rose
 03/04 a 15/04
