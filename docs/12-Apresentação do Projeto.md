@@ -1,27 +1,16 @@
 # Apresentação
 
-<span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
+## BuscaBook - Gestão de Livros Simplificada
 
-Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do projeto contemplando todos os itens trabalhados nos demais artefatos.
+A BuscaBook é uma empresa que oferece um software especializado em ajudar na busca de livros em bibliotecas. Com essa ferramenta, os usuários da biblioteca podem facilmente encontrar o livro desejado, seja por título, autor ou tema. Além disso, o software também auxilia o dono da biblioteca na organização do acervo, permitindo o cadastro de informações detalhadas sobre cada livro e facilitando a manutenção da coleção 📚
 
-## Título do Projeto
+## Conjunto de Slides 
 
-Nome e marca do projeto
+Para vizualisar o slide da apresentação do projeto gentileza acessar o link abaixo para download.
 
-## Identidade Visual (Marca, Design)
+[BuscaBook PDF Download](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/files/11853125/BuscaBook.pdf)
 
-O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do contexto da solução proposta, de forma a manter a temática do problema.
+## Video de apresentação
 
-> **Links Úteis**:
-> - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
-> - [7 dicas de design para criar apresentações de PowerPoint incríveis e eficientes](https://www.shutterstock.com/pt/blog/7-dicas-de-design-para-criar-apresentacoes-de-powerpoint-incriveis-e-eficientes)
-> - [Especialista do TED dá 10 dicas para criar slides eficazes e bonitos](https://soap.com.br/blog/especialista-do-ted-da-10-dicas-para-criar-slides-eficazes-e-bonitos)
+https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/102738785/23b0196e-1519-47e3-953d-049519054fd8
 
-## Conjunto de Slides (Estrutura)
-
-O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro do tempo determinado. Importante ressaltar a importância da descrição clara de todo o andamento do projeto, insumos gerados e requisitos atendidos.
- 
-> **Links Úteis**:
-> - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
-> - [Top Tips for Effective Presentations](https://www.skillsyouneed.com/present/presentation-tips.html)
-> - [How to make a great presentation](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
