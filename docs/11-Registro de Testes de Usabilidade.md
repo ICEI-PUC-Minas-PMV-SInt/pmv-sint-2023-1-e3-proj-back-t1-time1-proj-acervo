@@ -39,3 +39,5 @@ Pré-requisitos:[Especificação do Projeto](https://github.com/ICEI-PUC-Minas-P
 -Houve um nivel de entendimento satisfatório dentro da proposta estabelecida pelo software, todos os participantes efetuaram login acertadamente. Observamos que a pagina de cadastro de admin não gerou dúvidas e que as funções de CRUD foi satisfatória. Em relação ao entendimento dos Botões e Ícones o usuário não encontrou ícones para se referenciar e quanto aos botões, sugeriu dispor de botões de busca opcionais. <br/> -Necessidade de melhorias na página catálogo.<br/> -Sugestões dos usuários participantes: dispor de botões como: título, Gênero e Autor na página Catálogo.
 <br/> -As sugestões dos participantes são de suma importância para que sejam avaliadas e consideradas como proposta para viabilizar aperfeiçoamentos no software, tornando-o mais entendível, simples, agradável e atraente.
 
+> **Links Úteis**:
+> - [Ferramentas deTestes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
