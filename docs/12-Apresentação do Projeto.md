@@ -6,7 +6,7 @@ A BuscaBook é uma empresa que oferece um software especializado em ajudar na bu
 
 ## Conjunto de Slides 
 
-Para vizualisar o slide da apresentação do projeto gentileza acessar o link abaixo para download.
+Para visualizar o slide da apresentação do projeto gentileza acessar o link abaixo para download.
 
 [BuscaBook PDF Download](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/files/11853125/BuscaBook.pdf)
 
