@@ -29,13 +29,13 @@ Pré-requisitos:[Especificação do Projeto](https://github.com/ICEI-PUC-Minas-P
 ### Cada tarefa recebeu uma nota de 0 a 5, em que 0 indica que o participante não conseguiu fazer o que foi solicitado, e 5 indica que a tarefa foi realizada com sucesso
 
 |**Participantes**| **Entendimento do software** | **Login** | **Cadastro, edição e exclusão**| **Entendimento dos ícones e botões**|
-|-----------------|-----------------------------|-----------|--------------------------------|-------------------------------------|
-|**Participante 1**|                            |           |                                |                                     |
-|**Participante 2**|                            |           |                                |                                     |
-|**Participante 3**|                            |           |                                |                                     |
-|**Média**|                            |           |                                |                                     |
+|:----------------:|:---------------------------:|:---------:|:------------------------------:|:-----------------------------------:|
+|**Participante 1**|             4              |    5      |              5                 |                4                    |
+|**Participante 2**|             3              |    5      |              4                 |                3                    |
+|**Participante 3**|             5              |    5      |              5                 |                3                    |
+|**Média**|            4               |     5     |               4                |             3                       |
 
 # Conclusão
--Houve um nivel de entendimento satisfatório dentro da proposta estabelecida pelo software...<br/> -Necessidade de melhorias...<br/> -Sugestões dos usuários participantes:...
-
+-Houve um nivel de entendimento satisfatório dentro da proposta estabelecida pelo software, todos os participantes efetuaram login acertadamente. Observamos que a pagina de cadastro de admin não gerou dúvidas e que as funções de CRUD foi satisfatória. Em relação ao entendimento dos Botões e Ícones o usuário não encontrou ícones para se referenciar e quanto aos botões, sugeriu dispor de botões de busca opcionais. <br/> -Necessidade de melhorias na página catálogo.<br/> -Sugestões dos usuários participantes: dispor de botões como: título, Gênero e Autor na página Catálogo.
+<br/> -As sugestões dos participantes são de suma importância para que sejam avaliadas e consideradas como proposta para viabilizar aperfeiçoamentos no software, tornando-o mais entendível, simples, agradável e atraente.
 
