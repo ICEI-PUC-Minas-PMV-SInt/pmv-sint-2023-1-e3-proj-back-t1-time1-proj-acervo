@@ -125,10 +125,11 @@ Dia 30/05
  
 ### Isadora Bittencourt 
 03/04 a 04/06
+- Criação do diagrama de casos de uso.
 - Estudo dos microfundamentos das etapas 1, 2 e 3.
 - Criação do diagrama ER e correção do mesmo.
 
-
+![222928832-7b8791a3-edd1-4af9-ae5a-645b92d1aea6](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/101745127/0f1f6ce8-d67b-4ee4-b0da-417c8c5ecf7a)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/assets/101745127/277b6258-275d-4289-8750-aad79372f802).
 
 04/06 a 18/06
