@@ -105,6 +105,10 @@ Dia 23/06
 <img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/main/docs/img/Evid%C3%AAncias%20-%20Let%C3%ADcia%20Lopes/Entregas%20-%20Etapa%203/Css%20da%20view%20Edit.png" width="500" heigth="300"/>
 <img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time1-proj-acervo/blob/main/docs/img/Evid%C3%AAncias%20-%20Let%C3%ADcia%20Lopes/Entregas%20-%20Etapa%203/Link%20do%20Css%20na%20view%20edit.png" width="500" heigth="300"/>
 
+13/06 a 19/06
+- Auxilio na Criação do slide para a apresentação final
+
+  -------
 
 ### Marcia Carvalho
 03/04 a 30/04
